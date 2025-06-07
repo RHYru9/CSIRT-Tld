@@ -1,238 +1,320 @@
-no,base_domain,csirt_url,telepon,email,apresiasi,rfc_2350
-1,alorkab.go.id,http://csirt.alorkab.go.id/,,,,
-2,ambon.go.id,https://csirt.ambon.go.id/,,,,
-3,atrbpn.go.id,https://csirt.atrbpn.go.id/,"+626266450, +628111931000, +62517166838",csirt@atrbpn.go.id,,https://csirt.atrbpn.go.id/storage/public-key/BPN-CSIRT_0x84AC53F3_public.asc
-4,babelprov.go.id,https://csirt.babelprov.go.id/,+627174262141,,,https://csirt.babelprov.go.id/assets/Kunci-Publik-BabelProvCsirt.asc
-5,badanpangan.go.id,https://csirt.badanpangan.go.id/,"+6231326054, +62313260542, +623132605423",csirt@badanpangan.go.id,,https://csirt.badanpangan.go.id/storage/public-key/BadanPangan_CSIRT_public.asc
-6,badungkab.go.id,https://csirt.badungkab.go.id/,"+626526271, +6221102101, +62686192192",csirt@badungkab.go.id,,
-7,balangankab.go.id,https://csirt.balangankab.go.id/,"+625262028434, +627456555855, +6274565558",csirt@balangankab.go.id,,https://csirt.balangankab.go.id/storage/public-key/balangan csirt@balangankab.go.id-(0x6F04C7E332818409)-public.asc
-8,baliprov.go.id,https://csirt.baliprov.go.id/,"+62361225859, +62361227810",,,
-9,balitbangjateng.go.id,http://csirt.balitbangjateng.go.id/404.html,,,,
-10,bandaacehkota.go.id,https://csirt.bandaacehkota.go.id/,"+628208208, +6282165445643",csirt@bandaacehkota.go.id,,https://csirt.bandaacehkota.go.id/publickey.asc
-11,bandarlampungkota.go.id,https://csirt.bandarlampungkota.go.id/,"+628805086, +62721254756",csirt@bandarlampungkota.go.id,,
-12,bandung.go.id,https://csirt.bandung.go.id/,,csirt@bandung.go.id,,https://csirt.bandung.go.id/assets/Publik-Key-Bantuan70-pub.asc
-13,bandungbaratkab.go.id,https://csirt.bandungbaratkab.go.id/,"+627169799999, +628724362, +62716979999",bantuan70@bssn.go.id,,https://csirt.bandungbaratkab.go.id/storage/public-key/BandungBaratKab-CSIRT_0x220C85A6_public.asc
-14,bandungkab.go.id,https://csirt.bandungkab.go.id/,,diskominfo@bandungkab.go.id,,
-15,banggaikab.go.id,https://csirt.banggaikab.go.id/,"+6249061145, +6227203478, +6251726654",bantuan70@bssn.go.id,,https://csirt.banggaikab.go.id/storage/public-key/Persandian Kominfo Banggai_csirt@diskominfo.banggaikab.go.id-0xF3497C6051726654-pub.asc
-16,banggailautkab.go.id,https://csirt.banggailautkab.go.id/,"+0621234567890, +626908836060, +62690883606",,,
-17,bangka.go.id,https://csirt.bangka.go.id/,,,,
-18,bangkalankab.go.id,https://csirt.bangkalankab.go.id/,"+62313094179, +6247178992955, +624717899295",csirt@bangkalankab.go.id,,https://csirt.bangkalankab.go.id/storage/public-key/BangkalanKab-CSIRT_0x749ED5F9_public.asc
-19,bangkatengahkab.go.id,http://csirt.bangkatengahkab.go.id/,+627187362032,csirt@bangkatengahkab.go.id,,http://csirt.bangkatengahkab.go.id/storage/public-key/KunciPublik_0xF0286EC8_public.asc
-20,banglikab.go.id,https://csirt.banglikab.go.id/,"+626688787, +6266887878, +6236693804",info@freehtml5.co,,
-21,banjarbarukota.go.id,https://csirt.banjarbarukota.go.id/,+625116749126,,,https://csirt.banjarbarukota.go.id/storage/public-key/banjarbaru.asc
-22,banjarkab.go.id,https://csirt.banjarkab.go.id/,"+625114723108, +623976893",kominfo@banjarkab.go.id,,https://csirt.banjarkab.go.id/storage/public-key/csirt banjarkab_0x3BC60888_public.asc
-23,banjarmasinkota.go.id,http://csirt.banjarmasinkota.go.id/,,,,
-24,bantenprov.go.id,https://csirt.bantenprov.go.id/,"+6282117772226, +622547824104",,,
-25,bantulkab.go.id,https://csirt.bantulkab.go.id/,+62274367509,logo-font-dark@2x.png,,
-26,banyumaskab.go.id,https://csirt.banyumaskab.go.id/,"+622815759000, +62281622246, +62281634166",,,
-27,banyuwangikab.go.id,https://csirt.banyuwangikab.go.id/,"+6282230993, +6281336494613, +6281336494",,,https://csirt.banyuwangikab.go.id/public/csirt-banyuwangi-public-key.asc
-28,bappenas.go.id,https://csirt.bappenas.go.id/,,,,
-29,baritokualakab.go.id,https://csirt.baritokualakab.go.id/,"+626619699, +62435349525460, +62435349525",batolacsirtcsirt@baritokualakab.go.id,,https://csirt.baritokualakab.go.id/storage/public-key/BATOLACSIRTcsirt@baritokualakab.go.id-(0x4376C4FE5A87E661)-public.asc
-30,baritoselatankab.go.id,https://csirt.baritoselatankab.go.id/,"+628222130161, +6282221301616, +624167259137",diskominfo@baritoselatankab.go.id,,https://csirt.baritoselatankab.go.id/storage/uploads/CSIRT Admin_barselkabcsirt@baritoselatankab.go.id-0x7FD7A19C5E68709B-pub.asc
-31,baritotimurkab.go.id,https://csirt.baritotimurkab.go.id/,,,,
-32,batam.go.id,https://csirt.batam.go.id/web/,,csirt@batam.go.id,,
-33,batukota.go.id,https://csirt.batukota.go.id/,,,,
-34,baubaukota.go.id,https://csirt.baubaukota.go.id/,+62000000000,csirt@baubaukota.go.id,,https://csirt.baubaukota.go.id/storage/public-key/PubkeyBaubauKota-CSIRT2024.asc
-35,bawaslu.go.id,https://csirt.bawaslu.go.id/,+622112345678,csirt@bawaslu.go.id,,
-36,baznas.go.id,https://csirt.baznas.go.id/,"+62065998820, +6206599882, +620000001",,,https://csirt.baznas.go.id/storage/public-key/BAZNAS-CSIRT_0x91AC69A2_public.asc
-37,beacukai.go.id,https://csirt.beacukai.go.id/,,satgas_lebaran@kemenkeu.go.id,,
-38,bekasikab.go.id,https://csirt.bekasikab.go.id/,,csirt@bekasikab.go.id,,
-39,bekasikota.go.id,https://csirt.bekasikota.go.id/,"+622188959980, +627388726",csirt@bekasikota.go.id,,https://csirt.bekasikota.go.id/storage/public-key/BekasiKota-CSIRT_0x41D838C7_public.asc
-40,belitung.go.id,https://csirt.belitung.go.id/,"+6288545781, +628854578, +623480291",csirt@belitung.go.id,,https://csirt.belitung.go.id/storage/public-key/belitungkab-csirt-pgp.asc
-41,beltim.go.id,https://csirt.beltim.go.id/,"+627199220007, +6235032992, +6227460413",csirt@beltim.go.id,,https://csirt.beltim.go.id/storage/public-key/BELTIMKAB-CSIRT_0x21B285A6_public.asc
-42,bengkulukota.go.id,https://csirt.bengkulukota.go.id/,"+624567617, +624873575633, +6273621003",bengkulu_csirt@bengkulukota.go.id-0x7603078bbed9a88e-pub.asc,,https://csirt.bengkulukota.go.id/storage/public-key/Kota Bengkulu_csirt@bengkulukota.go.id-0x7603078BBED9A88E-pub.asc
-43,bimakota.go.id,https://csirt.bimakota.go.id/,"+6265773468, +62657734686, +628534567890",csirt@bimakota.go.id,,https://csirt.bimakota.go.id/storage/public-key/publickey-bimakota.asc
-44,bin.go.id,https://csirt.bin.go.id/,"+6212345678, +880123456789, +62123456789",csirt@bin.go.id,,https://csirt.bin.go.id/assets/asc/publickey.asc
-45,bintankab.go.id,https://csirt.bintankab.go.id/,"+62213858171, +628925165792, +62892516579",csirt@bintankab.go.id,,https://csirt.bintankab.go.id/storage/public-key/pgp-key-bintan.asc
-46,bkkbn.go.id,https://csirt.bkkbn.go.id/,+62218016620,csirt@bkkbn.go.id,,
-47,bkpm.go.id,https://csirt.bkpm.go.id/,+622152921301,csirt@bkpm.go.id,,
-48,blitar.go.id,http://csirt.blitar.go.id/,,,,
-49,blitarkota.go.id,https://csirt.blitarkota.go.id/,+62342807805,csirt@blitarkota.go.id,,https://csirt.blitarkota.go.id/storage/public-key/publickey.asc
-50,blorakab.go.id,https://csirt.blorakab.go.id/,"+62296532038, +6236768257, +623676825",,,https://csirt.blorakab.go.id/storage/public-key/publickeyblora.asc
-51,bmkg.go.id,https://csirt.bmkg.go.id/,+629982450,csirt@bmkg.go.id,,https://csirt.bmkg.go.id/storage/key/01JS0XAFMYXE7D6VQ8D29CGEBT.asc
-52,bnn.go.id,https://csirt.bnn.go.id/,"+626357666, +622127910, +622180871567",puslitdatin@bnn.go.id,,https://csirt.bnn.go.id/storage/public-key/publickeypuslitdatin.asc
-53,bnpp.go.id,https://csirt.bnpp.go.id/,"+62772893819, +622131924491, +627728938198",,,https://csirt.bnpp.go.id/storage/public-key/datev_0xB3289A37_public.asc
-54,bnpt.go.id,https://csirt.bnpt.go.id/,,noc@bnpt.go.id,,
-55,bogorkab.go.id,https://csirt.bogorkab.go.id/,+62218758605,csirt@bogorkab.go.id,,https://csirt.bogorkab.go.id/storage/public-key/BogorKab-CSIRT_csirt@bogorkab.go.id-0x7CF8DE482A752025-pub.asc
-56,bolmongkab.go.id,https://csirt.bolmongkab.go.id/,"+622145624, +627016069, +6270160693",csirt@bolmongkab.go.id,,
-57,bondowosokab.go.id,https://csirt.bondowosokab.go.id/,"+6281324058783, +62066340442, +620663404",csirt@bondowosokab.go.id,,
-58,bontangkota.go.id,https://csirt.bontangkota.go.id/,"+625483030303, +626966436435, +6269664364352",csirt@bontangkota.go.id,,https://csirt.bontangkota.go.id/storage/public-key/BONTANGKOTA-CSIRT-public.asc
-59,boyolali.go.id,https://csirt.boyolali.go.id/,"+6286514877, +628651487776, +62276320009",csirt@boyolali.go.id,,https://csirt.boyolali.go.id/storage/public-key/BoyolaliKab-CSIRT-pgp-public-key.asc
-60,bpbatam.go.id,https://csirt.bpbatam.go.id/,"+624951417, +6281268099500, +6288983860",,,https://csirt.bpbatam.go.id/storage/public-key/CSIRT-BPBatam_0xEFBDDED6_public.asc
-61,bpip.go.id,https://csirt.bpip.go.id/,"+622812585, +62213505200, +621362470",csirt@bpip.go.id,,https://csirt.bpip.go.id/storage/public-key/BPIP-CSIRT_0xD723D5EC_public.asc
-62,bpk.go.id,https://csirt.bpk.go.id/,+62212554900,csirt@bpk.go.id,,
-63,bpkp.go.id,https://csirt.bpkp.go.id/,+622185910031,csirt@bpkp.go.id,,https://csirt.bpkp.go.id/storage/public-key/csirt csirt@bpkp.go.id-(0xC90272608CC1A16A)-public.asc
-64,bps.go.id,https://csirt.bps.go.id/,,,,https://csirt.bps.go.id/assets/bps-csirt.asc
-65,bsn.go.id,https://csirt.bsn.go.id/,,,,
-66,bumn.go.id,https://csirt.bumn.go.id/,"+6282312126860, +62820221499, +622129935678",csirt@bumn.go.id,,
-67,buolkab.go.id,https://csirt.buolkab.go.id/,"+627169799999, +628724362, +62716979999",bantuan70@bssn.go.id,,https://csirt.buolkab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
-68,butonkab.go.id,http://csirt.butonkab.go.id/,,,,
-69,butonutarakab.go.id,http://csirt.butonutarakab.go.id/,,,,
-70,cilacapkab.go.id,https://csirt.cilacapkab.go.id/,"+620595407, +626879229, +6268792296",,,https://csirt.cilacapkab.go.id/storage/public-key/cilacap-csirt.asc
-71,cilegon.go.id,http://csirt.cilegon.go.id/,,,,
-72,cirebonkota.go.id,https://csirt.cirebonkota.go.id/,"+6235467587, +6285147728686, +622318804620",csirt@cirebonkota.go.id,,https://csirt.cirebonkota.go.id/storage/public-key/pgp_key_csirt_cirebonkota.asc
-73,covid19.go.id,http://csirt.covid19.go.id/,,,,
-74,demakkab.go.id,https://csirt.demakkab.go.id/,"+621085600895, +62291685790, +62108560089",csirt@demakkab.go.id,,https://csirt.demakkab.go.id/storage/public-key/DemakKab-CSIRT_0xFC0B3947_public.asc
-75,denpasarkota.go.id,https://csirt.denpasarkota.go.id/,+62361431229,,,https://csirt.denpasarkota.go.id/assets/Publik-Key-Bantuan70-pub.asc
-76,dephub.go.id,https://csirt.dephub.go.id/,"+620691326, +62213811308",cs-digiportasi@kemenhub.go.id,,https://csirt.dephub.go.id/upload/Digiportasi_cs-digiportasi@kemenhub.go.id-0x669C6840C0A7736C-pub.asc
-77,depok.go.id,https://csirt.depok.go.id/,"+6229645545, +628951595780, +622964554",csirt@depok.go.id,,https://csirt.depok.go.id/storage/public-key/csirt@depok.go.id_0x1F1FC96D4F97960B.asc
-78,dpd.go.id,http://csirt.dpd.go.id/,+622157897371,csirt@dpd.go.id,,http://csirt.dpd.go.id/assets/Publik-Key-Bantuan70-pub.asc
-79,gorontaloprov.go.id,https://csirt.gorontaloprov.go.id/,"+62008045319, +620080453194, +62575830003",csirt@gorontaloprov.go.id,,https://csirt.gorontaloprov.go.id/storage/public-key/PublicKey-CSIRT-GorontaloProv.asc
-80,humbanghasundutankab.go.id,http://csirt.humbanghasundutankab.go.id/,,,,
-81,kedirikota.go.id,https://csirt.kedirikota.go.id/,"+62354682955158, +62354682955",csirt@kedirikota.go.id,,https://csirt.kedirikota.go.id/storage/public-key/Kediri Kota CSIRT_0xE1EA38F4_public.asc
-82,kejari-halut.go.id,http://csirt.kejari-halut.go.id/,,,,
-83,kejari-lampungtengah.go.id,http://csirt.kejari-lampungtengah.go.id/,,,,
-84,kemenag.go.id,https://csirt.kemenag.go.id/,"+62213812306, +620968907, +6209689073",csirt@kemenag.go.id,,https://csirt.kemenag.go.id/storage/public-key/Public Key Kemenag-CSIRT.pgp
-85,kemendag.go.id,https://csirt.kemendag.go.id/,"+62213858171, +628925165792, +62892516579",csirt@kemendag.go.id,,https://csirt.kemendag.go.id/assets/Publik-Key-Bantuan70-pub.asc
-86,kemendesa.go.id,https://csirt.kemendesa.go.id/,"+621401018, +621901019",,,https://csirt.kemendesa.go.id/publickey.asc
-87,kemenhub.go.id,https://csirt.kemenhub.go.id/,"+620691326, +62213811308",cs-digiportasi@kemenhub.go.id,,https://csirt.kemenhub.go.id/upload/Digiportasi_cs-digiportasi@kemenhub.go.id-0x669C6840C0A7736C-pub.asc
-88,kemenkeu.go.id,https://csirt.kemenkeu.go.id/,,,,
-89,kemenperin.go.id,https://csirt.kemenperin.go.id/,"+626416108, +62000000000, +6264161087",csirt@kemenperin.go.id,,https://csirt.kemenperin.go.id/storage/public-key/Kemenperin-CSIRT_0x9128F4F7_KunciPublik.asc
-90,kemenpora.go.id,https://csirt.kemenpora.go.id/,+626269489,csirt.kemenpora@gmail.com,,
-91,kemenpppa.go.id,https://csirt.kemenpppa.go.id/,+62213842638,csirt@kemenpppa.go.id,,https://csirt.kemenpppa.go.id/storage/public-key/Publickey_0x6B9E8FD7.asc
-92,kemensos.go.id,https://csirt.kemensos.go.id/,"+6272003673, +622122804288",pusdatin@kemsos.go.id,,https://csirt.kemensos.go.id/storage/public-key/publickey.asc
-93,kemhan.go.id,https://csirt.kemhan.go.id/,,csirt@kemhan.go.id,,https://csirt.kemhan.go.id/assets/CSIRT-Kemhan_0xAD591C54_public.asc
-94,kendalkab.go.id,https://csirt.kendalkab.go.id/,+62294384353,diskominfo@kendalkab.go.id,,https://csirt.kendalkab.go.id/storage/public-key/Kendalkab-CSIRT_0xF3DCCABD_public.asc
-95,kendarikota.go.id,https://frotendvest.com/,,,,
-96,ketapangkab.go.id,http://csirt.ketapangkab.go.id/,+624122168,diskominfo@ketapangkab.go.id,,http://csirt.ketapangkab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
-97,kki.go.id,http://csirt.kki.go.id/,,,,
-98,klaten.go.id,https://csirt.klaten.go.id/,,marwa@elmanawy.info,,
-99,knkt.go.id,https://csirt.knkt.go.id/,"+6281212655155, +62213517606, +62213847601",knkt@kemenhub.go.id,,
-100,komisiyudisial.go.id,https://csirt.komisiyudisial.go.id/,"+62213905876, +620213905876",csirt@komisiyudisial.go.id,,
-101,kotabarukab.go.id,https://csirt.kotabarukab.go.id/,"+6282251175043, +629819100, +6281349507292",csirt@kotabarukab.go.id,,
-102,kotabogor.go.id,https://csirt.kotabogor.go.id/,+622518321075,csirt@kotabogor.go.id,,https://csirt.kotabogor.go.id/storage/public-key/Tim Tanggap Insiden Siber Kota Bogor_csirt@kotabogor.go.id-0xF95E3315FF63797A-pub.asc
-103,kotamobagu.go.id,http://csirt.kotamobagu.go.id/,+6289539550064,,,
-104,kotaprabumulih.go.id,https://csirt.kotaprabumulih.go.id/,"+62109193572, +621091935, +6228387305408",csirt@kotaprabumulih.go.id,,
-105,kotawaringinbaratkab.go.id,https://csirt.kotawaringinbaratkab.go.id/,"+6261879999, +6285251701723, +62414799999",sandi_sandi@kotawaringinbaratkab.go.id-0x51aee055423ef81e-pub.asc,,https://csirt.kotawaringinbaratkab.go.id/storage/public-key/sandi_sandi@kotawaringinbaratkab.go.id-0x51AEE055423EF81E-pub.asc
-106,kpk.go.id,https://csirt.kpk.go.id/?lang=id,,,,
-107,kulonprogokab.go.id,https://csirt.kulonprogokab.go.id/,"+6298017305, +629801730508, +62274773272",csirt@kulonprogokab.go.id,,https://csirt.kulonprogokab.go.id/storage/public-key/Kulon Progo - CISRT_csirt@kulonprogokab.go.id-0x8C64100D9E477C6F-pub.asc
-108,kuningankab.go.id,https://csirt.kuningankab.go.id/,+62232871142,info@csirt.kuningankab.go.id,,https://csirt.kuningankab.go.id/storage/public-key/CSIRTPemkab Kuningan_public.asc
-109,kupangkota.go.id,https://csirt.kupangkota.go.id/,"+6285239007171, +628133852287, +628523900717",csirt@kupangkota.go.id,,https://csirt.kupangkota.go.id/storage/public-key/CSIRT KUPANG_csirt@kupangkota.go.id-0xF7581729CD484693-pub.asc
-110,kutaitimurkab.go.id,https://csirt.kutaitimurkab.go.id/,"+6262038923, +62670403567, +625492021207",admin@kutaitimurkab.go.id,,https://csirt.kutaitimurkab.go.id/storage/public-key/csirt-kutim-publickey-new.asc
-111,lamandaukab.go.id,https://csirt.lamandaukab.go.id/,"+621922739, +622074095, +622310286",csirtlmd@lamandaukab.go.id,,
-112,lamongankab.go.id,https://csirt.lamongankab.go.id/,"+6291796253, +626155151, +623791851",csirt@lamongankab.go.id,,https://csirt.lamongankab.go.id/storage/public-key/LamongankabCSIRT_0x52AC97BC_public.asc
-113,lampungprov.go.id,https://csirt.lampungprov.go.id/,"+62721470547, +6220390657, +62203906571",,,
-114,lampungselatankab.go.id,https://csirt.lampungselatankab.go.id/,"+62893928855958, +628939288",csirt@lampungselatankab.go.id,,https://csirt.lampungselatankab.go.id/storage/public-key/publickey.asc
-115,lampungtengahkab.go.id,http://csirt.lampungtengahkab.go.id/,,,,
-116,lampungtimurkab.go.id,http://csirt.lampungtimurkab.go.id/,+622752113,,,
-117,landakkab.go.id,https://csirt.landakkab.go.id/,"+6256121792, +622844353",csirt@landakkab.go.id,,https://csirt.landakkab.go.id/storage/public-key/KunciPublik-LandakKab-CSIRT.asc
-118,lapor.go.id,https://csirt.lapor.go.id/,+626444003,lapor@layanan.go.id,,
-119,limapuluhkotakab.go.id,https://csirt.limapuluhkotakab.go.id/,,csirt@limapuluhkotakab.go.id,,
-120,lkpp.go.id,https://csirt.lkpp.go.id/,+622129912450,csirt@lkpp.go.id,,https://csirt.lkpp.go.id/assets/Publik-Key-LKPP-pub.asc
-121,lombokutarakab.go.id,http://csirt.lombokutarakab.go.id/,"+62000000161, +62000000917, +62000001006",csirt@lombokuitarakab.go.id,,
-122,lpsk.go.id,http://csirt.lpsk.go.id/,"+6289375004, +6286265356694, +62893750045",,,https://csirt.lpsk.go.id/lpsk_0x4CEBEF32_public.asc
-123,lubuklinggaukota.go.id,https://csirt.lubuklinggaukota.go.id/,"+62057094881, +627333288050, +6205709488",bantuan@csirt.lubuklinggaukota.go.id,,https://csirt.lubuklinggaukota.go.id/storage/public-key/csirt linggau kota.asc
-124,madina.go.id,https://csirt.madina.go.id/,,,,
-125,madiunkota.go.id,https://csirt.madiunkota.go.id/,"+621529252, +62351467327, +62152925244",csirt@madiunkota.go.id,,https://csirt.madiunkota.go.id/storage/public-key/publickey.asc
-126,magelangkota.go.id,https://csirt.magelangkota.go.id/,"+62372719458, +623727194587, +62293363695",csirt@magelangkota.go.id,,https://csirt.magelangkota.go.id/storage/public-key/PubKeyPGP_magelangkotacsirt.asc
-127,magetan.go.id,http://csirt.magetan.go.id/,"+625476844, +623518197913, +626756184544",csirt@magetan.go.id,,http://csirt.magetan.go.id/storage/public-key/Magetan CSIRT-pub.asc
-128,mahakamulukab.go.id,https://csirt.mahakamulukab.go.id/,"+628130000000, +6281300000000",csirt@mahakamulukab.go.id,,https://csirt.mahakamulukab.go.id/storage/public-key/Update 24042025 PGP csirt@mahakamulukab.go.id.asc
-129,mahkamahagung.go.id,http://csirt.mahkamahagung.go.id/,,,,
-130,majalengkakab.go.id,https://csirt.majalengkakab.go.id/,"+626080583634, +62608058363, +622338292292",diskominfo@majalengkakab.go.id,,https://csirt.majalengkakab.go.id/storage/public-key/pgcsirt@kabmajalengka.asc
-131,malangkab.go.id,https://csirt.malangkab.go.id/,"+6207222857, +62072228576, +620722285768",csirt@malangkab.go.id,,https://csirt.malangkab.go.id/storage/public-key/MALANGKAB-CSIRT_public.asc
-132,malangkota.go.id,https://csirt.malangkota.go.id/,+62341751550,csirt@malangkota.go.id,,https://csirt.malangkota.go.id/storage/public-key/KunciPublic-MalangKota-CSIRT.asc
-133,malukuprov.go.id,http://csirt.malukuprov.go.id/,,,,
-134,malutprov.go.id,https://csirt.malutprov.go.id/,+6210499958,csirt@malutprov.go.id,,https://csirt.malutprov.go.id/storage/public-key/Csirt-Malutprov_0x7C790D71_public.asc
-135,mamujutengahkab.go.id,https://csirt.mamujutengahkab.go.id/,"+627858213700, +6207658605, +620765860",,,https://csirt.mamujutengahkab.go.id/storage/public-key/KunciPublik-irfan_0xD191A669_public.asc
-136,menlhk.go.id,https://csirt.menlhk.go.id/,+62218580081,csirt@menlhk.go.id,,
-137,meranginkab.go.id,http://csirt.meranginkab.go.id/,,,,
-138,metrokota.go.id,https://csirt.metrokota.go.id/,+6225060437,,,
-139,mojokertokab.go.id,https://csirt.mojokertokab.go.id/,+62321391268,csirt@mojokertokab.go.id,,https://csirt.mojokertokab.go.id/storage/public-key/PublicKey-MojokertoKab-CSIRT_0x2B87FA3E_public.asc
-140,morowalikab.go.id,https://csirt.morowalikab.go.id/,"+6223091096, +6285255512969, +628525551296",csirt@morowalikab.go.id,,https://csirt.morowalikab.go.id/storage/public-key/CSIRT-MOROWALI_0x68307CEF_public.asc
-141,morowaliutarakab.go.id,http://csirt.morowaliutarakab.go.id/,+6281343882154,csirt@morowaliutarakab.go.id,,http://csirt.morowaliutarakab.go.id/storage/public-key/0xAB7CE25FECE789B8.asc
-142,ms-lhoksukon.go.id,http://www.csirt.ms-lhoksukon.go.id/,,,,
-143,muarojambikab.go.id,https://csirt.muarojambikab.go.id/,"+6258662267, +6258662267426, +62586622674",luck.cool212@gmail.com,,
-144,mubakab.go.id,https://csirt.mubakab.go.id/,+6281325221524,csirt@mubakab.go.id,,https://csirt.mubakab.go.id/storage/public-key/MubaKab-CSIRT_0xF9AAFB11_public.asc
-145,mukomukokab.go.id,https://csirt.mukomukokab.go.id/,,,,
-146,muratarakab.go.id,http://csirt.muratarakab.go.id/,,,,
-147,nganjukkab.go.id,https://csirt.nganjukkab.go.id/,"+62335807514, +62358611187, +6286527404651",diskominfo@nganjukkab.go.id,,https://csirt.nganjukkab.go.id/storage/public-key/Kunci Publik-csirt nganjuk_0x294E02FA_public.asc
-148,ngawikab.go.id,https://csirt.ngawikab.go.id/,"+622506372889, +62250637288, +62351749050",csirt@ngawikab.go.id,,https://csirt.ngawikab.go.id/storage/public-key/NGAWI-CSIRT_0x56C3A5EE_public.asc
-149,ntbprov.go.id,https://csirt.ntbprov.go.id/,"+62370644264, +6209510804",sandikami@ntbprov.go.id,,https://csirt.ntbprov.go.id/assets/Publik-Key-Bantuan70-pub.asc
-150,nttprov.go.id,https://csirt.nttprov.go.id/,"+6201015562, +62380821294",csirt@nttprov.go.id,,https://csirt.nttprov.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
-151,pa-balikpapan.go.id,http://csirt.pa-balikpapan.go.id/,,,,
-152,pa-batusangkar.go.id,http://csirt.pa-batusangkar.go.id/,,,,
-153,pa-kendari.go.id,http://csirt.pa-kendari.go.id/,,,,
-154,pa-magelang.go.id,http://csirt.pa-magelang.go.id/,,,,
-155,pa-makassar.go.id,http://csirt.pa-makassar.go.id/,,,,
-156,pa-polewali.go.id,http://csirt.pa-polewali.go.id/,,,,
-157,pa-rengat.go.id,http://csirt.pa-rengat.go.id/,,,,
-158,pa-sumenep.go.id,https://csirt.pa-sumenep.go.id/,,,,
-159,pacitankab.go.id,https://csirt.pacitankab.go.id/,,stkka@ssdata.my.id,,
-160,padang.go.id,https://csirt.padang.go.id/,"+622779726, +62277972623, +627514640800",csirt@padang.go.id,,https://csirt.padang.go.id/storage/public-key/KunciPublik-Padang-CSIRT_0xE37DFE5A_public.asc
-161,padangpanjang.go.id,https://iplogger.com/2VCZD5,,,,
-162,palangkaraya.go.id,https://palangkaraya.go.id,"+6278400957862, +620127675716, +6278293800",kominfo@palangkaraya.go.id,,
-163,palembang.go.id,https://csirt.palembang.go.id/,,,,
-164,pamekasankab.go.id,https://csirt.pamekasankab.go.id/,"+621688529, +62626072245, +6216885291",csirt@pamekasankab.go.id,,https://csirt.pamekasankab.go.id/storage/public-key/PamekasanKabCSIRT_0xC29C6B2C_public.asc
-165,pangkalpinangkota.go.id,https://csirt.pangkalpinangkota.go.id/,"+62717423473, +62828217576",diskominfo@pangkalpinangkota.go.id,,
-166,papua.go.id,https://csirt.papua.go.id/,"+62756206588, +6275620658, +62874669525",insiden@papua.go.id,,https://csirt.papua.go.id/storage/public-key/PapuaProv-CSIRT.asc
-167,papuabaratprov.go.id,https://csirt.papuabaratprov.go.id/,"+628121810668, +6281218106682",aduansiber@papuabaratprov.go.id,,https://csirt.papuabaratprov.go.id/assets/Publik-Key-Bantuan70-pub.asc
-168,pasamanbaratkab.go.id,https://csirt.pasamanbaratkab.go.id/,"+628136168000, +625421574, +62542157423",csirt@pasamanbaratkab.go.id,,https://csirt.pasamanbaratkab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
-169,pasamankab.go.id,https://csirt.pasamankab.go.id/,+6275320281,,,
-170,pasuruankab.go.id,https://csirt.pasuruankab.go.id/,+62343429064,csirt@pasuruankab.go.id,,https://csirt.pasuruankab.go.id/storage/public-key/csirt@pasuruankab.go.id-(0xE874DB9FF72585CA)-public.asc
-171,patikab.go.id,https://csirt.patikab.go.id/,+62295381127,,,http://csirt.patikab.go.id/assets/Publik-Key-Bantuan70-pub.asc
-172,pekalongankota.go.id,https://csirt.pekalongankota.go.id/,"+62285421243, +6275873451",csirt@gafe.pekalongankota.go.id,,https://csirt.pekalongankota.go.id/storage/public-key/PekalonganKota-CSIRT_0xB9D3E257_public.asc
-173,pemalangkab.go.id,https://csirt.pemalangkab.go.id/,+62284321364,,,https://csirt.pemalangkab.go.id/storage/public-key/PemalangKab-CSIRT-pub.asc
-174,penajamkab.go.id,https://mercusuar.uzone.id/,,,,
-175,pertanian.go.id,https://csirt.pertanian.go.id/,+62217822638,,,
-176,pn-ambon.go.id,https://csirt.pn-ambon.go.id/index.php?lang=en,"+625358968, +62313435323, +6231343532343",,,
-177,pn-batam.go.id,http://csirt.pn-batam.go.id/,,,,
-178,pn-bengkulu.go.id,http://csirt.pn-bengkulu.go.id/,,,,
-179,pn-binjai.go.id,http://csirt.pn-binjai.go.id/,,,,
-180,pn-depok.go.id,http://csirt.pn-depok.go.id/,,,,
-181,pn-manna.go.id,http://csirt.pn-manna.go.id/,,,,
-182,pn-poso.go.id,http://csirt.pn-poso.go.id/,,,,
-183,pn-praya.go.id,http://csirt.pn-praya.go.id/,,,,
-184,pn-sidrap.go.id,http://csirt.pn-sidrap.go.id/,,,,
-185,pn-tanjungpinangkota.go.id,http://csirt.pn-tanjungpinangkota.go.id/,,,,
-186,pn-tenggarong.go.id,http://csirt.pn-tenggarong.go.id/,,,,
-187,pn-wangiwangi.go.id,http://csirt.pn-wangiwangi.go.id/,,,,
-188,pn-wonogiri.go.id,http://csirt.pn-wonogiri.go.id/,,,,
-189,polkam.go.id,https://csirt.polkam.go.id/,,2e6a159a-team-image-1@2x.jpg,,
-190,polri.go.id,https://csirt.polri.go.id/,"+628111960, +62081119607917, +6281119607917",csirt@polri.go.id,,https://csirt.polri.go.id/storage/public-key/KunciPublik_0x6FE8906A_public.asc
-191,pom.go.id,https://csirt.pom.go.id/,+627613488,,,
-192,pontianak.go.id,https://csirt.pontianak.go.id/,"+629964260, +625618181771, +622217855823",csirt@pontianak.go.id,,https://csirt.pontianak.go.id/storage/public-key/Pontianak-CSIRT_0x15676791_public.asc
-193,ppatk.go.id,https://csirt.ppatk.go.id/,+622150928484,csirt@ppatk.go.id,,
-194,probolinggokab.go.id,https://csirt.probolinggokab.go.id/,+62335846665,csirt@probolinggokab.go.id,,https://csirt.probolinggokab.go.id/storage/public-key/probolinggokab-csirt_0xAAEFCF2E_public.asc
-195,probolinggokota.go.id,https://csirt.probolinggokota.go.id/,"+6289328790, +629462911, +628927359",,,
-196,pt-kupang.go.id,http://csirt.pt-kupang.go.id/,,,,
-197,purwakartakab.go.id,https://www.csirt.purwakartakab.go.id/,+62264210082,csirt@purwakartakab.go.id,,https://www.csirt.purwakartakab.go.id/storage/public-key/PublicKey-csirt@purwakartakab.go.id.asc
-198,sambas.go.id,https://csirt.sambas.go.id/,"+6288926954169, +6288926954, +62517599914",sambas-csirt_csirt@sambas.go.id-0x708b6841b30e3080-pub.asc,,https://csirt.sambas.go.id/storage/app/public/public-key/Sambas-CSIRT_csirt@sambas.go.id-0x708B6841B30E3080-pub.asc
-199,sanggau.go.id,https://csirt.sanggau.go.id/,"+62241215224010, +622412152243, +62250528111",csirt@mail.sanggau.go.id,,https://csirt.sanggau.go.id/uploads/csirtsgu_pgp_key.asc
-200,sawahluntokota.go.id,https://csirt.sawahluntokota.go.id/,+624042065,,,
-201,semarangkota.go.id,https://csirt.semarangkota.go.id/,"+622505280948, +62250528090, +62211222095009",csirt@semarangkota.go.id,,
-202,serangkab.go.id,https://csirt.serangkab.go.id/,,,,
-203,sidoarjokab.go.id,https://csirt.sidoarjokab.go.id/,"+622745247, +62318071604, +6227452474",csirt@sidoarjokab.go.id,,https://csirt.sidoarjokab.go.id/storage/public-key/KunciPublik-sidoarjokab-csirt_0x3872E2EF_public.asc
-204,sikkakab.go.id,http://csirt.sikkakab.go.id/,,,,
-205,sipd.go.id,https://sipd.kemendagri.go.id/landing,,,,
-206,situbondokab.go.id,https://csirt.situbondokab.go.id/,"+62696120676, +627640092310, +62764009231",,,https://csirt.situbondokab.go.id/storage/public-key/B8CC1E6A8473BFE2955FB69D1B32FD9107D5130F.asc
-207,slemankab.go.id,https://csirt.slemankab.go.id/,"+62274868405, +621102442",,,
-208,solokkab.go.id,https://csirt.solokkab.go.id/,+62000000000,csirt@solokkab.go.id,,https://csirt.solokkab.go.id/storage/public-key/KunciPublik_0xEA798B4B_public.asc
-209,solselkab.go.id,https://csirt.solselkab.go.id/,"+622100000000, +620000000",csirt@solselkab.go.id,,https://csirt.solselkab.go.id/storage/public-key/kominfo csirt@solselkab.go.id-(0xB6DDE239A712CB72)-public.asc
-210,sukabumikab.go.id,https://csirt.sukabumikab.go.id/,"+622601236845, +62260123684, +62266320254",csirt@sukabumikab.go.id,,https://csirt.sukabumikab.go.id/storage/public-key/Sukabumikab-CSIRT_0x30496E71_public.asc
-211,sukoharjokab.go.id,https://csirt.sukoharjokab.go.id/,+62271593068,csirt@sukoharjokab.go.id,,https://csirt.sukoharjokab.go.id/storage/public-key/KunciPublic-SUKOHARJOKAB-CSIRT_0x2BBFD772_public.asc
-212,sulselprov.go.id,https://csirt.sulselprov.go.id/,,,,
-213,sultengprov.go.id,https://sultengprov.go.id,+624119393,,,
-214,sultraprov.go.id,https://csirt.sultraprov.go.id/,+624013111728,csirt@sultraprov.go.id,,https://csirt.sultraprov.go.id/storage/publickey-v1.asc
-215,sumbarprov.go.id,https://csirt.sumbarprov.go.id/cgi-sys/suspendedpage.cgi,,webmaster@csirt.sumbarprov.go.id,,
-216,sumedangkab.go.id,https://csirt.sumedangkab.go.id/,+62261201225,csirt@sumedangkab.go.id,,https://csirt.sumedangkab.go.id/storage/public-key/KunciPublik-Sumedangkab CSIRT_0x6710A985 (1).asc
-217,sumselprov.go.id,https://csirt.sumselprov.go.id/,"+62711355699, +1548554451",example@domain.com,,https://csirt.sumselprov.go.id/assets/Publik-Key-Bantuan70-pub.asc
-218,sumutprov.go.id,https://csirt.sumutprov.go.id/,"+62614527254, +6231319355",csirt@sumutprov.go.id,,https://csirt.sumutprov.go.id/storage/public-key/sumutprov_csirt.asc
-219,tanahlautkab.go.id,https://csirt.tanahlautkab.go.id/,,csirt.tala@tanahlautkab.go.id,,https://csirt.tanahlautkab.go.id/storage/public-key/TALAKAB-CSIRT_0x08ADF0BF_public.asc
-220,tanatidungkab.go.id,http://csirt.tanatidungkab.go.id/,"+62532177738, +622100000000, +625321777381",csrit@tanatidungkab.go.id,,http://csirt.tanatidungkab.go.id/storage/public-key/PGB Kabupaten Tana Tidung.asc
-221,tangerangkab.go.id,https://csirt.tangerangkab.go.id/,"+6241977119, +62215994532, +624197711",kamisandi-diskominfo@tangerangkab.go.id,,https://csirt.tangerangkab.go.id/storage/public-key/Publik-Key-Bantuan70-pub.asc
-222,tangerangkota.go.id,https://csirt.tangerangkota.go.id/,"+6257268439, +6254321768, +62200523031045",csirt@tangerangkota.go.id,,
-223,tanjabbarkab.go.id,https://csirt.tanjabbarkab.go.id/,"+622928375, +62926837059550, +621605270",,,
-224,tapinkab.go.id,https://csirt.tapinkab.go.id/,"+622709232, +628113450017, +627783155",csirt@tapinkab.go.id,,https://csirt.tapinkab.go.id/storage/public-key/publickey.asc
-225,telukbintunikab.go.id,http://csirt.telukbintunikab.go.id/,,,,
-226,temanggungkab.go.id,https://csirt.temanggungkab.go.id/,"+627784566076, +627784566, +6277845660",contact@example.com,,
-227,tojounauna.go.id,http://csirt.tojounauna.go.id/,"+6282348817777, +621118863, +628234881777",csirt-touna@mail.tojounauna.go.id,,http://csirt.tojounauna.go.id/storage/public-key/persandian_persandian@mail.tojounauna.go.id-0x33DB3C7BCBEF4B2E-pub.asc
-228,tolitolikab.go.id,https://csirt.tolitolikab.go.id/,"+627169799999, +628724362, +62716979999",,,https://csirt.tolitolikab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
-229,trenggalekkab.go.id,https://csirt.trenggalekkab.go.id/,"+627013501071, +62701350107101, +6270135010710",csirt@trenggalekkab.go.id,,https://csirt.trenggalekkab.go.id/storage/public-key/CSIRT Trenggalek csirt@trenggalekkab.go.id-(0x329E27728CE3DD17)-public.asc
-230,tualkota.go.id,http://csirt.tualkota.go.id/,,,,
-231,tubankab.go.id,https://csirt.tubankab.go.id/,"+62210646754, +624160977462, +624160977",csirt@tubankab.go.id,,https://csirt.tubankab.go.id/storage/public-key/publickey.asc
-232,tulangbawangbaratkab.go.id,http://csirt.tulangbawangbaratkab.go.id/,,,,
-233,tvri.go.id,https://csirt.tvri.go.id/,,,,
-234,veteranri.go.id,http://csirt.veteranri.go.id/,,,,
-235,wajokab.go.id,https://csirt.wajokab.go.id/,,,,
-236,wantannas.go.id,https://csirt.wantannas.go.id/,"+625822407, +62213451067",,,https://csirt.wantannas.go.id/storage/public-key/Kunci Publik - Setjen Wantannas CSIRT_0xA0B5BDF7_public.asc
-237,waykanankab.go.id,https://csirt.waykanankab.go.id/,"+626044358, +62123456789",info@apexa.com,,
+base_domain,csirt_url,telepon,email,apresiasi,rfc_2350
+alorkab.go.id,http://csirt.alorkab.go.id/,,,,
+ambon.go.id,https://csirt.ambon.go.id/,,,,
+atrbpn.go.id,https://csirt.atrbpn.go.id/,"+625171668380, +6281119310000, +628111931000",csirt@atrbpn.go.id,,https://csirt.atrbpn.go.id/storage/public-key/BPN-CSIRT_0x84AC53F3_public.asc
+bandungkab.go.id,https://csirt.bandungkab.go.id/,,diskominfo@bandungkab.go.id,,
+bandungbaratkab.go.id,https://csirt.bandungbaratkab.go.id/,"+62716979999, +627169799999, +622178833610987",bantuan70@bssn.go.id,,https://csirt.bandungbaratkab.go.id/storage/public-key/BandungBaratKab-CSIRT_0x220C85A6_public.asc
+bangkalankab.go.id,https://csirt.bangkalankab.go.id/,"+624717899295, +6247178992955, +62313094179",csirt@bangkalankab.go.id,,https://csirt.bangkalankab.go.id/storage/public-key/BangkalanKab-CSIRT_0x749ED5F9_public.asc
+badanpangan.go.id,https://csirt.badanpangan.go.id/,"+6231326054, +62313260542, +623132605423",csirt@badanpangan.go.id,,https://csirt.badanpangan.go.id/storage/public-key/BadanPangan_CSIRT_public.asc
+balangankab.go.id,https://csirt.balangankab.go.id/,+625262028434,csirt@balangankab.go.id,,https://csirt.balangankab.go.id/storage/public-key/balangan csirt@balangankab.go.id-(0x6F04C7E332818409)-public.asc
+bangkatengahkab.go.id,http://csirt.bangkatengahkab.go.id/,+627187362032,csirt@bangkatengahkab.go.id,,http://csirt.bangkatengahkab.go.id/storage/public-key/KunciPublik_0xF0286EC8_public.asc
+banggaikab.go.id,https://csirt.banggaikab.go.id/,"+6249061145, +622178833610987, +6227203478",bantuan70@bssn.go.id,,https://csirt.banggaikab.go.id/storage/public-key/Persandian Kominfo Banggai_csirt@diskominfo.banggaikab.go.id-0xF3497C6051726654-pub.asc
+bandung.go.id,https://csirt.bandung.go.id/,,csirt@bandung.go.id,,https://csirt.bandung.go.id/assets/Publik-Key-Bantuan70-pub.asc
+banjarkab.go.id,https://csirt.banjarkab.go.id/,+625114723108,kominfo@banjarkab.go.id,,https://csirt.banjarkab.go.id/storage/public-key/csirt banjarkab_0x3BC60888_public.asc
+acehprov.go.id,https://csirt.acehprov.go.id/,+6265122221,diskominfo@acehprov.go.id,,https://csirt.acehprov.go.id/storage/public-key/Aceh_CSIRT_public.asc
+babelprov.go.id,https://csirt.babelprov.go.id/,+627174262141,,,https://csirt.babelprov.go.id/assets/Kunci-Publik-BabelProvCsirt.asc
+banjarmasinkota.go.id,https://csirt.banjarmasinkota.go.id/,+6285161338112,csirt@banjarmasinkota.go.id,,https://csirt.banjarmasinkota.go.id/storage/public-key/Banjarmasin-CSIRT_0x018F11E8_public.asc
+badungkab.go.id,https://csirt.badungkab.go.id/,"+62686192192, +6221102101",,,
+banyuasinkab.go.id,https://csirt.banyuasinkab.go.id/,+62711123456,,,
+banglikab.go.id,https://csirt.banglikab.go.id/,+6236693804,info@freehtml5.co,,
+bakamla.go.id,https://csirt.bakamla.go.id/,"+622182125189898, +623314495487, +622182125189",,,https://csirt.bakamla.go.id/storage/public-key/kuncipublik-bakamla-csirt_0xBC9D5395_public.asc
+baritoselatankab.go.id,https://csirt.baritoselatankab.go.id/,"+624167259137, +6282221301616, +628222130161",diskominfo@baritoselatankab.go.id,,https://csirt.baritoselatankab.go.id/storage/uploads/CSIRT Admin_barselkabcsirt@baritoselatankab.go.id-0x7FD7A19C5E68709B-pub.asc
+banggailautkab.go.id,https://csirt.banggailautkab.go.id/,"+626212345678, +6288360605412, +626908836060",,,
+bandarlampungkota.go.id,https://csirt.bandarlampungkota.go.id/,,csirt@bandarlampungkota.go.id,,
+bantenprov.go.id,https://csirt.bantenprov.go.id/,"+6282117772226, +622547824104",,,
+baubaukota.go.id,https://csirt.baubaukota.go.id/,+62000000000,csirt@baubaukota.go.id,,https://csirt.baubaukota.go.id/storage/public-key/PubkeyBaubauKota-CSIRT2024.asc
+baritotimurkab.go.id,https://csirt.baritotimurkab.go.id/,,,,
+banjarnegarakab.go.id,https://csirt.banjarnegarakab.go.id/,+62286591043,csirt@banjarnegarakab.go.id,,https://csirt.banjarnegarakab.go.id/storage/public-key/Banjarnegarakab CSIRT csirt@banjarnegarakab.go.id-(0x8588BB0A406A820E)-public.asc
+baritokualakab.go.id,https://csirt.baritokualakab.go.id/,"+625116701255, +62178823128, +6266196993",batolacsirtcsirt@baritokualakab.go.id,,https://csirt.baritokualakab.go.id/storage/public-key/BATOLACSIRTcsirt@baritokualakab.go.id-(0x4376C4FE5A87E661)-public.asc
+baliprov.go.id,https://csirt.baliprov.go.id/,"+62361227810, +62361225859",,,
+bawaslu.go.id,https://csirt.bawaslu.go.id/,+622112345678,csirt@bawaslu.go.id,,
+bekasikota.go.id,https://csirt.bekasikota.go.id/,+622188959980,csirt@bekasikota.go.id,,https://csirt.bekasikota.go.id/storage/public-key/BekasiKota-CSIRT_0x41D838C7_public.asc
+batam.go.id,https://csirt.batam.go.id/web/,,,,
+bekasikab.go.id,https://csirt.bekasikab.go.id/,,csirt@bekasikab.go.id,,
+batukota.go.id,https://csirt.batukota.go.id/,,,,
+batangkab.go.id,https://csirt.batangkab.go.id/,+62285392219,csirt@batangkab.go.id,,https://csirt.batangkab.go.id/assets/Publik-Key-Batangkab-pub.asc
+bantulkab.go.id,https://csirt.bantulkab.go.id/,+62274367509,logo-font-dark@2x.png,,
+bangka.go.id,https://csirt.bangka.go.id/,,,,
+bin.go.id,https://csirt.bin.go.id/,"+880123456789, +6212345678, +62123456789",csirt@bin.go.id,,https://csirt.bin.go.id/assets/asc/publickey.asc
+beltim.go.id,https://csirt.beltim.go.id/,"+6227460413, +627199220007, +6235032992",csirt@beltim.go.id,,https://csirt.beltim.go.id/storage/public-key/BELTIMKAB-CSIRT_0x21B285A6_public.asc
+belitung.go.id,https://csirt.belitung.go.id/,"+6288545781, +6271924942",csirt@belitung.go.id,,https://csirt.belitung.go.id/storage/public-key/belitungkab-csirt-pgp.asc
+bengkulukota.go.id,https://csirt.bengkulukota.go.id/,"+6273621003, +62487357563, +6248735756",bengkulu_csirt@bengkulukota.go.id-0x7603078bbed9a88e-pub.asc,,https://csirt.bengkulukota.go.id/storage/public-key/Kota Bengkulu_csirt@bengkulukota.go.id-0x7603078BBED9A88E-pub.asc
+bintankab.go.id,https://csirt.bintankab.go.id/,"+628925165792115, +62213858171, +628925165792",csirt@bintankab.go.id,,https://csirt.bintankab.go.id/storage/public-key/pgp-key-bintan.asc
+blitarkota.go.id,https://csirt.blitarkota.go.id/,+62342807805,csirt@blitarkota.go.id,,https://csirt.blitarkota.go.id/storage/public-key/publickey.asc
+bimakota.go.id,https://csirt.bimakota.go.id/,"+62657734686, +628534567890, +6265773468",csirt@bimakota.go.id,,https://csirt.bimakota.go.id/storage/public-key/publickey-bimakota.asc
+bnn.go.id,https://csirt.bnn.go.id/,"+622180871567, +622180871566",puslitdatin@bnn.go.id,,https://csirt.bnn.go.id/storage/public-key/publickeypuslitdatin.asc
+banyuwangikab.go.id,https://csirt.banyuwangikab.go.id/,"+6282230993446, +6282230993, +62333422400",,,https://csirt.banyuwangikab.go.id/public/csirt-banyuwangi-public-key.asc
+bogorkab.go.id,https://csirt.bogorkab.go.id/,+62218758605,csirt@bogorkab.go.id,,https://csirt.bogorkab.go.id/storage/public-key/BogorKab-CSIRT_csirt@bogorkab.go.id-0x7CF8DE482A752025-pub.asc
+baznas.go.id,https://csirt.baznas.go.id/,"+6206599882, +6255203304, +622122897983",,,https://csirt.baznas.go.id/storage/public-key/BAZNAS-CSIRT_0x91AC69A2_public.asc
+bkpm.go.id,https://csirt.bkpm.go.id/,+622152921301,csirt@bkpm.go.id,,
+beacukai.go.id,https://csirt.beacukai.go.id/,,satgas_lebaran@kemenkeu.go.id,,
+boyolali.go.id,https://csirt.boyolali.go.id/,"+62865148777, +62276320009, +6286514877",csirt@boyolali.go.id,,https://csirt.boyolali.go.id/storage/public-key/BoyolaliKab-CSIRT-pgp-public-key.asc
+bontangkota.go.id,https://csirt.bontangkota.go.id/,"+626966436435, +6269664364352, +6285245767385",csirt@bontangkota.go.id,,https://csirt.bontangkota.go.id/storage/public-key/BONTANGKOTA-CSIRT-public.asc
+bp2mi.go.id,https://csirt.bp2mi.go.id/,"+6296916874, +62218001000, +62969168742",csirt@bp2mi.go.id,,https://csirt.bp2mi.go.id/storage/public-key/bp2mi-publickey.asc
+bnpp.go.id,https://csirt.bnpp.go.id/,"+622131924491, +6277289381, +62772893819",,,https://csirt.bnpp.go.id/storage/public-key/datev_0xB3289A37_public.asc
+bpip.go.id,https://csirt.bpip.go.id/,"+62213505200, +6228125856",csirt@bpip.go.id,,https://csirt.bpip.go.id/storage/public-key/BPIP-CSIRT_0xD723D5EC_public.asc
+balitbangjateng.go.id,https://csirt.balitbangjateng.go.id/404.html,,,,
+bolmongkab.go.id,https://csirt.bolmongkab.go.id/,"+6270160693, +622145624067",csirt@bolmongkab.go.id,,
+bmkg.go.id,https://csirt.bmkg.go.id/,,csirt@bmkg.go.id,,https://csirt.bmkg.go.id/storage/key/01JS0XAFMYXE7D6VQ8D29CGEBT.asc
+bnpt.go.id,https://csirt.bnpt.go.id/,,noc@bnpt.go.id,,
+bkkbn.go.id,https://csirt.bkkbn.go.id/,,,,
+blitar.go.id,https://csirt.blitar.go.id/cgi-sys/suspendedpage.cgi,,webmaster@csirt.blitar.go.id,,
+banjarbarukota.go.id,https://csirt.banjarbarukota.go.id/,+625116749126,,,https://csirt.banjarbarukota.go.id/storage/public-key/banjarbaru.asc
+brebeskab.go.id,https://csirt.brebeskab.go.id/,"+6291684770, +62283672907, +624513845312",csirt@brebeskab.go.id,,https://csirt.brebeskab.go.id/storage/public-key/pgp_public_key.asc
+blorakab.go.id,https://csirt.blorakab.go.id/,"+62432911805, +6243291180, +6236768257",,,https://csirt.blorakab.go.id/storage/public-key/publickeyblora.asc
+bpk.go.id,https://csirt.bpk.go.id/,+62212554900,csirt@bpk.go.id,,
+bsn.go.id,https://csirt.bsn.go.id/,,,,
+bpbatam.go.id,https://csirt.bpbatam.go.id/,"+624023614061417, +6288983860, +6281268099500",,,https://csirt.bpbatam.go.id/storage/public-key/CSIRT-BPBatam_0xEFBDDED6_public.asc
+bps.go.id,https://csirt.bps.go.id/,,,,https://csirt.bps.go.id/assets/bps-csirt.asc
+bondowosokab.go.id,https://csirt.bondowosokab.go.id/,"+62066340442, +6206634044, +62332421707",csirt@bondowosokab.go.id,,
+brin.go.id,https://csirt.brin.go.id/,"+62588235294, +6258823529, +623921568627",,,
+buolkab.go.id,https://csirt.buolkab.go.id/,"+62716979999, +627169799999, +622178833610987",bantuan70@bssn.go.id,,https://csirt.buolkab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
+butonkab.go.id,https://csirt.butonkab.go.id/,,,,
+bumn.go.id,https://csirt.bumn.go.id/,"+6282312126860, +62820221499, +62820229216",csirt@bumn.go.id,,
+butonutarakab.go.id,https://csirt.butonutarakab.go.id/,,,,
+covid19.go.id,http://csirt.covid19.go.id/,,,,
+cilegon.go.id,https://csirt.cilegon.go.id/,,,,
+cirebonkota.go.id,https://csirt.cirebonkota.go.id/,"+622318804620, +6235467587, +6285147728686",csirt@cirebonkota.go.id,,https://csirt.cirebonkota.go.id/storage/public-key/pgp_key_csirt_cirebonkota.asc
+dephub.go.id,https://csirt.dephub.go.id/,+62213811308,cs-digiportasi@kemenhub.go.id,,https://csirt.dephub.go.id/upload/Digiportasi_cs-digiportasi@kemenhub.go.id-0x669C6840C0A7736C-pub.asc
+depok.go.id,https://csirt.depok.go.id/,"+6289515957800, +628951595780, +6229645545",csirt@depok.go.id,,https://csirt.depok.go.id/storage/public-key/csirt@depok.go.id_0x1F1FC96D4F97960B.asc
+denpasarkota.go.id,https://csirt.denpasarkota.go.id/,+62361431229,,,https://csirt.denpasarkota.go.id/assets/Publik-Key-Bantuan70-pub.asc
+demakkab.go.id,https://csirt.demakkab.go.id/,"+6285600895689, +62108560089, +62291685790",csirt@demakkab.go.id,,https://csirt.demakkab.go.id/storage/public-key/DemakKab-CSIRT_0xFC0B3947_public.asc
+dilmil-ambon.go.id,https://csirt.dilmil-ambon.go.id/,,,,
+cilacapkab.go.id,https://csirt.cilacapkab.go.id/,"+620595407476, +622825563111, +6268792296",,,https://csirt.cilacapkab.go.id/storage/public-key/cilacap-csirt.asc
+dpd.go.id,https://csirt.dpd.go.id/,+622157897371,csirt@dpd.go.id,,https://csirt.dpd.go.id/assets/Publik-Key-Bantuan70-pub.asc
+dpr.go.id,https://csirt.dpr.go.id/,"+62620220107, +6233517193, +628127575610",csirt@dpr.go.id,,https://berkas.dpr.go.id/setjen/dokumen/-Kunci-Publik-Kunci-Publik-DPRRI-CSIRT-1644990809.asc
+bandaacehkota.go.id,https://csirt.bandaacehkota.go.id/,,,,
+banyumaskab.go.id,https://csirt.banyumaskab.go.id/,"+6275879092, +6252503151, +625062508423",,,
+bpkp.go.id,https://csirt.bpkp.go.id/,+622185910031,csirt@bpkp.go.id,,https://csirt.bpkp.go.id/storage/public-key/csirt csirt@bpkp.go.id-(0xC90272608CC1A16A)-public.asc
+ekon.go.id,https://csirt.ekon.go.id/,+62213521981,csirt@ekon.go.id,,https://csirt.ekon.go.id/assets/Publik-Key-Bantuan71-pub.asc
+esdm.go.id,https://csirt.esdm.go.id/,"+6285935279604, +628593527960, +62213804242",csirt@esdm.go.id,,
+gorontaloprov.go.id,https://csirt.gorontaloprov.go.id/,"+6203443873, +627213583299, +62575830003",csirt@gorontaloprov.go.id,,https://csirt.gorontaloprov.go.id/storage/public-key/PublicKey-CSIRT-GorontaloProv.asc
+gorontalokota.go.id,https://csirt.gorontalokota.go.id/,"+624358530332, +625743177311",csirt@gorontalokota.go.id,,
+grobogan.go.id,https://csirt.grobogan.go.id/,"+6287355694881, +628735569488, +62292421059",csirt@grobogan.go.id,,https://csirt.grobogan.go.id/storage/public-key/GroboganKab-CSIRT.asc
+gunungkidulkab.go.id,https://csirt.gunungkidulkab.go.id/,"+62986153161, +629861531610, +6298615316",csirt@gunungkidulkab.go.id,,https://csirt.gunungkidulkab.go.id/storage/public-key/publickey.asc
+hulusungaiselatankab.go.id,https://csirt.hulusungaiselatankab.go.id/,"+6289649870532, +628964987053",csirt@hulusungaiselatankab.go.id,,https://csirt.hulusungaiselatankab.go.id/storage/public-key/HSSKab-CSIRT_0xFAE0E0A6_Public_Key.asc
+hstkab.go.id,https://csirt.hstkab.go.id/,"+625173791750, +6221684514",csirt@hulusungaitengahkab.go.id,,https://csirt.hstkab.go.id/storage/public-key/CSIRT HST_csirt@hulusungaitengahkab.go.id-0x07C9085F02D44618-pub.asc
+gianyarkab.go.id,https://csirt.gianyarkab.go.id/,+6285103136299,,,https://csirt.gianyarkab.go.id/storage/public-key/Kuncipublikgianyar.asc
+hsu.go.id,https://csirt.hsu.go.id/,"+625276061127, +62090140070",agunggov-csirt_csirt@hsu.go.id-0xf1edabbf65e4e1e6-pub.asc,,https://csirt.hsu.go.id/storage/public-key/AgungGov-CSIRT_csirt@hsu.go.id-0xF1EDABBF65E4E1E6-pub.asc
+jabarprov.go.id,https://csirt.jabarprov.go.id/,+62222502898,csirt@jabarprov.go.id,,https://csirt.jabarprov.go.id/assets/Publik-Key-Bantuan70-pub.asc
+jakarta.go.id,https://csirt.jakarta.go.id/,"+622306230954, +62240620070, +62220728024",csirt@jakarta.go.id,,
+jatimprov.go.id,https://csirt.jatimprov.go.id/,+62318294608,csirt@jatimprov.go.id,,https://csirt.jatimprov.go.id/storage/public-key/CSIRT csirt@jatimprov.go.id-(0x673E1A7B927BB529)-public.asc
+jambiprov.go.id,https://csirt.jambiprov.go.id/,+625227168,,,
+indramayukab.go.id,https://csirt.indramayukab.go.id/,,,,
+jayapurakota.go.id,https://csirt.jayapurakota.go.id/,+62000000000,csirt@jayapurakota.go.id,,https://csirt.jayapurakota.go.id/storage/public-key/csirt@jayapurakota.go.id-(0xC628B44DF6076B52)-public.asc
+jambikota.go.id,https://csirt.jambikota.go.id/,,,,
+jepara.go.id,https://csirt.jepara.go.id/,"+62321765631, +62291591492",csirt@jepara.go.id,,https://csirt.jepara.go.id/storage/public-key/Jepara-CSIRT_0xD6BED5EC_public.asc
+jogjakota.go.id,https://csirt.jogjakota.go.id/,"+62240828094227, +62240828094, +62241125125129",csirt@jogjakota.go.id,,
+kalselprov.go.id,https://csirt.kalselprov.go.id/,+625116749844,sandikami@kalselprov.go.id,,https://csirt.kalselprov.go.id/storage/public-key/sandikami.asc
+kapuashulukab.go.id,https://csirt.kapuashulukab.go.id/,+625672022922,csirt@kapuashulukab.go.id,,https://csirt.kapuashulukab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
+kalbarprov.go.id,https://csirt.kalbarprov.go.id/,"+6240714161409, +624071416140, +6282154436200",,,
+jogjaprov.go.id,https://csirt.jogjaprov.go.id/,,,,
+karawangkab.go.id,https://csirt.karawangkab.go.id/,"+622678450633, +622115063430, +62211506343",csirt@karawangkab.go.id,,https://csirt.karawangkab.go.id/storage/public-key/KunciPublik-KarawangKab-CSIRT.asc
+kaltaraprov.go.id,https://csirt.kaltaraprov.go.id/,+6277736669,csirt@kaltaraprov.go.id,,https://csirt.kaltaraprov.go.id/storage/public-key/PGP-Key_KaltaraProv-CSIRT.asc
+jembranakab.go.id,https://csirt.jembranakab.go.id/,+6236541210,csirt@jembranakab.go.id,,https://csirt.jembranakab.go.id/storage/public-key/JEMBRANA-CSIRT_0x36F92D13_public.asc
+inhukab.go.id,https://csirt.inhukab.go.id/,"+6282391908426, +628239190842",persandian@inhukab.go.id,,
+kayongutarakab.go.id,https://csirt.kayongutarakab.go.id/,,,,
+kebumenkab.go.id,https://csirt.kebumenkab.go.id/,+62287381794,csirt@kebumenkab.go.id,,https://csirt.kebumenkab.go.id/assets/img/public-key/CSIRT_KEBUMENKAB_0x1049B0C0_public.asc
+humbanghasundutankab.go.id,https://www.youtube.com/watch?v=UU3in6OivIM&feature=youtu.be,+6200000000,,,
+kamparkab.go.id,https://csirt.kamparkab.go.id/,+621860547338,csirt@kamparkab.go.id,,
+kejaksaan.go.id,https://csirt.kejaksaan.go.id/,,,,
+kedirikota.go.id,https://csirt.kedirikota.go.id/,"+62354682955, +62354682955158",csirt@kedirikota.go.id,,https://csirt.kedirikota.go.id/storage/public-key/Kediri Kota CSIRT_0xE1EA38F4_public.asc
+karantinaindonesia.go.id,https://csirt.karantinaindonesia.go.id/,"+6284448212, +62217816481",,,https://csirt.karantinaindonesia.go.id/storage/public-key/OpenPGP_0x9905A36A219BE71F_and_old_rev.asc
+jombangkab.go.id,https://csirt.jombangkab.go.id/,"+626505455699, +62650545569, +6265054556",,,https://csirt.jombangkab.go.id/storage/public-key/jombangkab-publickey.asc
+kedirikab.go.id,https://csirt.kedirikab.go.id/,"+621484001464, +6295925159, +623259677500",,,https://csirt.kedirikab.go.id/storage/public-key/KediriKab-CSIRT-pub.asc
+jatengprov.go.id,https://csirt.jatengprov.go.id/,"+622408319140, +62049656358, +6204965635",csirt@jatengprov.go.id,,
+kejari-halut.go.id,https://csirt.kejari-halut.go.id/,,,,
+karanganyarkab.go.id,https://csirt.karanganyarkab.go.id/,,,,
+kejari-lampungtengah.go.id,http://csirt.kejari-lampungtengah.go.id/,,,,
+kejari-malangkab.go.id,https://csirt.kejari-malangkab.go.id/,,aduankonten@mail.kominfo.go.id,,
+intanjayakab.go.id,https://intanjayakab.go.id/wp-signup.php?new=csirt,"+620408258167, +624846783, +628500167742",office@legit.com,,
+kemendagri.go.id,https://csirt.kemendagri.go.id/,"+62151699999, +62213450038, +6215169999",csirt@kemendagri.go.id,,https://csirt.kemendagri.go.id/storage/public-key/KunciPublik_0x0D04C2E1_public.asc
+kemenhub.go.id,https://csirt.kemenhub.go.id/,+62213811308,cs-digiportasi@kemenhub.go.id,,https://csirt.kemenhub.go.id/upload/Digiportasi_cs-digiportasi@kemenhub.go.id-0x669C6840C0A7736C-pub.asc
+kemenperin.go.id,https://csirt.kemenperin.go.id/,"+6264161087, +62000000000",csirt@kemenperin.go.id,,https://csirt.kemenperin.go.id/storage/public-key/Kemenperin-CSIRT_0x9128F4F7_KunciPublik.asc
+kemenkopmk.go.id,https://csirt.kemenkopmk.go.id/,"+62213459444, +6219671476",pmk.csirt@kemenkopmk.go.id,,https://csirt.kemenkopmk.go.id/storage/public-key/publickey.asc
+kemendag.go.id,https://csirt.kemendag.go.id/,"+628925165792115, +62213858171, +628925165792",csirt@kemendag.go.id,,https://csirt.kemendag.go.id/assets/Publik-Key-Bantuan70-pub.asc
+kemenag.go.id,https://csirt.kemenag.go.id/,"+62213812306, +6209689073",csirt@kemenag.go.id,,https://csirt.kemenag.go.id/storage/public-key/Public Key Kemenag-CSIRT.pgp
+kemenkeu.go.id,https://csirt.kemenkeu.go.id/,,,,
+kemensos.go.id,https://csirt.kemensos.go.id/,"+622122804288, +6272003673",pusdatin@kemsos.go.id,,https://csirt.kemensos.go.id/storage/public-key/publickey.asc
+kemhan.go.id,https://csirt.kemhan.go.id/,,csirt@kemhan.go.id,,https://csirt.kemhan.go.id/assets/CSIRT-Kemhan_0xAD591C54_public.asc
+kendalkab.go.id,https://csirt.kendalkab.go.id/,+62294384353,diskominfo@kendalkab.go.id,,https://csirt.kendalkab.go.id/storage/public-key/Kendalkab-CSIRT_0xF3DCCABD_public.asc
+kemendesa.go.id,https://csirt.kemendesa.go.id/,"+621901019, +621401018",,,
+kemenpppa.go.id,https://csirt.kemenpppa.go.id/,+62213842638,csirt@kemenpppa.go.id,,https://csirt.kemenpppa.go.id/storage/public-key/Publickey_0x6B9E8FD7.asc
+kemenkopukm.go.id,https://csirt.kop.go.id/,"+626666666666, +6266666666666",,,
+kki.go.id,https://csirt.kki.go.id/,,,,
+klungkungkab.go.id,https://csirt.klungkungkab.go.id/,,aduankonten@mail.kominfo.go.id,,
+klaten.go.id,https://csirt.klaten.go.id/,,marwa@elmanawy.info,,
+kotabogor.go.id,https://csirt.kotabogor.go.id/,+622518321075,csirt@kotabogor.go.id,,https://csirt.kotabogor.go.id/storage/public-key/Tim Tanggap Insiden Siber Kota Bogor_csirt@kotabogor.go.id-0xF95E3315FF63797A-pub.asc
+kemenpora.go.id,https://csirt.kemenpora.go.id/,,,,
+kpi.go.id,https://csirt.kpi.go.id/,"+6298493820, +6281110010022",csirt@kpi.go.id,,https://csirt.kpi.go.id/storage/public-key/KPI-CSIRT_0x98A535A2_public.asc
+komisiyudisial.go.id,https://csirt.komisiyudisial.go.id/,"+62213905876, +620213905876",csirt@komisiyudisial.go.id,,
+kotamobagu.go.id,https://csirt.kotamobagu.go.id/,,,,
+kendarikota.go.id,https://frotendvest.com/,,,,
+kotaprabumulih.go.id,https://csirt.kotaprabumulih.go.id/,"+622838730540, +6228387305408, +622838730540888",,,
+ketapangkab.go.id,https://csirt.ketapangkab.go.id/,,diskominfo@ketapangkab.go.id,,https://csirt.ketapangkab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
+knkt.go.id,https://csirt.knkt.go.id/,,,,
+kotabarukab.go.id,https://csirt.kotabarukab.go.id/,"+629819100, +624352100",,,
+knks.go.id,https://ups-error.com,,,,
+kppip.go.id,https://kppip.go.id/,,,,
+kpud-purworejokab.go.id,https://csirt.kpud-purworejokab.go.id/,,,,
+ksp.go.id,https://csirt.ksp.go.id/,"+622123545001, +620001201, +62131102229",,,
+kuduskab.go.id,https://csirt.kuduskab.go.id/,"+6274991400, +62569196845, +625691968453",csirt@kuduskab.go.id,,https://csirt.kuduskab.go.id/storage/public-key/KudusKab-CSIRT_0xDA1571D5_public.asc
+kuningankab.go.id,https://csirt.kuningankab.go.id/,+62232871142,info@csirt.kuningankab.go.id,,https://csirt.kuningankab.go.id/storage/public-key/CSIRTPemkab Kuningan_public.asc
+kulonprogokab.go.id,https://csirt.kulonprogokab.go.id/,"+62274773272, +62980173050, +629801730508",csirt@kulonprogokab.go.id,,https://csirt.kulonprogokab.go.id/storage/public-key/Kulon Progo - CISRT_csirt@kulonprogokab.go.id-0x8C64100D9E477C6F-pub.asc
+kuburayakab.go.id,https://csirt.kuburayakab.go.id/,"+62038804605, +6281345588813, +628965745838",csrit@kuburayakab.go.id,,
+kutaitimurkab.go.id,https://csirt.kutaitimurkab.go.id/,"+6262038923, +625492021207, +62670403567",admin@kutaitimurkab.go.id,,https://csirt.kutaitimurkab.go.id/storage/public-key/csirt-kutim-publickey-new.asc
+lampungbaratkab.go.id,https://csirt.lampungbaratkab.go.id/,,,,
+lampungselatankab.go.id,https://csirt.lampungselatankab.go.id/,+62893928855958,csirt@lampungselatankab.go.id,,https://csirt.lampungselatankab.go.id/storage/public-key/publickey.asc
+lamongankab.go.id,https://csirt.lamongankab.go.id/,"+6291796253, +62322321168, +62917962538",csirt@lamongankab.go.id,,https://csirt.lamongankab.go.id/storage/public-key/LamongankabCSIRT_0x52AC97BC_public.asc
+lampungtengahkab.go.id,http://csirt.lampungtengahkab.go.id/,,,,
+lampungtimurkab.go.id,http://csirt.lampungtimurkab.go.id/,,,,
+landakkab.go.id,https://csirt.landakkab.go.id/,+6256121792,csirt@landakkab.go.id,,https://csirt.landakkab.go.id/storage/public-key/KunciPublik-LandakKab-CSIRT.asc
+lemhannas.go.id,https://csirt.lemhannas.go.id/,+62213847749,lhn-csirt@lemhannas.go.id,,https://csirt.lemhannas.go.id/storage/public-key/publickey.asc
+lkpp.go.id,https://csirt.lkpp.go.id/,+622129912450,csirt@lkpp.go.id,,https://csirt.lkpp.go.id/assets/Publik-Key-LKPP-pub.asc
+lpsk.go.id,https://csirt.lpsk.go.id/,"+6232161796, +62893750045, +6286265356694",,,https://csirt.lpsk.go.id/lpsk_0x4CEBEF32_public.asc
+lombokutarakab.go.id,https://csirt.lombokutarakab.go.id/,"+628775978182, +6287759781823",diskominfo@lombokutarakab.go.id,,
+lubuklinggaukota.go.id,https://csirt.lubuklinggaukota.go.id/,"+62057094881, +6205709488, +627333288050",bantuan@csirt.lubuklinggaukota.go.id,,https://csirt.lubuklinggaukota.go.id/storage/public-key/csirt linggau kota.asc
+limapuluhkotakab.go.id,https://csirt.limapuluhkotakab.go.id/,,csirt@limapuluhkotakab.go.id,,
+lapor.go.id,https://csirt.lapor.go.id/,"+625011096, +6209338207, +6255641299",lapor@layanan.go.id,,
+madina.go.id,https://csirt.madina.go.id/,,,,
+lamandaukab.go.id,https://csirt.lamandaukab.go.id/,+6200000015,,,
+madiunkota.go.id,https://csirt.madiunkota.go.id/,"+62351467327, +62152925244, +6215292524",csirt@madiunkota.go.id,,https://csirt.madiunkota.go.id/storage/public-key/publickey.asc
+magelangkab.go.id,https://csirt.magelangkab.go.id/,+62293788181,csirt@magelangkab.go.id,,https://csirt.magelangkab.go.id/storage/public-key/MagelangKab-CSIRT_1_2_public.asc
+magelangkota.go.id,https://csirt.magelangkota.go.id/,"+62372719458, +623727194587, +62293363695",csirt@magelangkota.go.id,,https://csirt.magelangkota.go.id/storage/public-key/PubKeyPGP_magelangkotacsirt.asc
+magetan.go.id,https://csirt.magetan.go.id/,"+626756184544, +62675618454, +6267561845",csirt@magetan.go.id,,https://csirt.magetan.go.id/storage/public-key/Magetan CSIRT-pub.asc
+mahakamulukab.go.id,https://csirt.mahakamulukab.go.id/,"+6281300000000, +628130000000",csirt@mahakamulukab.go.id,,https://csirt.mahakamulukab.go.id/storage/public-key/Update 24042025 PGP csirt@mahakamulukab.go.id.asc
+malangkab.go.id,https://csirt.malangkab.go.id/,"+62341408788, +62072228576, +620722285768",csirt@malangkab.go.id,,https://csirt.malangkab.go.id/storage/public-key/MALANGKAB-CSIRT_public.asc
+malutprov.go.id,https://csirt.malutprov.go.id/,+6210499958,csirt@malutprov.go.id,,https://csirt.malutprov.go.id/storage/public-key/Csirt-Malutprov_0x7C790D71_public.asc
+malukuprov.go.id,http://csirt.malukuprov.go.id/,,,,
+majalengkakab.go.id,https://csirt.majalengkakab.go.id/,"+6260805836, +62608058363, +622338292292",diskominfo@majalengkakab.go.id,,https://csirt.majalengkakab.go.id/storage/public-key/pgcsirt@kabmajalengka.asc
+kupangkota.go.id,https://csirt.kupangkota.go.id/,"+62863117402178, +6281338522879, +628523900717",csirt@kupangkota.go.id,,https://csirt.kupangkota.go.id/storage/public-key/CSIRT KUPANG_csirt@kupangkota.go.id-0xF7581729CD484693-pub.asc
+malangkota.go.id,https://csirt.malangkota.go.id/,+62341751550,csirt@malangkota.go.id,,https://csirt.malangkota.go.id/storage/public-key/KunciPublic-MalangKota-CSIRT.asc
+lampungprov.go.id,https://csirt.lampungprov.go.id/,"+622039065716, +6220390657, +62203906571",,,
+mamujutengahkab.go.id,https://csirt.mamujutengahkab.go.id/,"+62811442810, +6207658605, +6278582137002",,,https://csirt.mamujutengahkab.go.id/storage/public-key/KunciPublik-irfan_0xD191A669_public.asc
+meranginkab.go.id,https://csirt.meranginkab.go.id/,,,,
+menlhk.go.id,https://csirt.menlhk.go.id/,+62218580081,csirt@menlhk.go.id,,
+mojokertokab.go.id,https://csirt.mojokertokab.go.id/,+62321391268,csirt@mojokertokab.go.id,,https://csirt.mojokertokab.go.id/storage/public-key/PublicKey-MojokertoKab-CSIRT_0x2B87FA3E_public.asc
+mpr.go.id,https://csirt.mpr.go.id/,"+627751316654, +622157895285, +62775131665",csirt@mpr.go.id,,https://csirt.mpr.go.id/storage/public-key/PublikKey-0xC9BDC386_public.asc
+morowaliutarakab.go.id,http://csirt.morowaliutarakab.go.id/,+6281343882154,csirt@morowaliutarakab.go.id,,http://csirt.morowaliutarakab.go.id/storage/public-key/0xAB7CE25FECE789B8.asc
+morowalikab.go.id,https://csirt.morowalikab.go.id/,"+628525551296, +6223091096, +6285255512969",csirt@morowalikab.go.id,,https://csirt.morowalikab.go.id/storage/public-key/CSIRT-MOROWALI_0x68307CEF_public.asc
+ms-lhoksukon.go.id,https://csirt.ms-lhoksukon.go.id/,,,,
+mubakab.go.id,https://csirt.mubakab.go.id/,+6281325221524,csirt@mubakab.go.id,,https://csirt.mubakab.go.id/storage/public-key/MubaKab-CSIRT_0xF9AAFB11_public.asc
+mukomukokab.go.id,https://csirt.mukomukokab.go.id/,,,,
+muratarakab.go.id,https://csirt.muratarakab.go.id/,,,,
+muarojambikab.go.id,https://csirt.muarojambikab.go.id/,"+62586622674, +6258662267426, +6258662267",luck.cool212@gmail.com,,
+metrokota.go.id,https://csirt.metrokota.go.id/,+6225060957,,,
+ngawikab.go.id,https://csirt.ngawikab.go.id/,"+62351749050, +622506372889, +62250637288",csirt@ngawikab.go.id,,https://csirt.ngawikab.go.id/storage/public-key/NGAWI-CSIRT_0x56C3A5EE_public.asc
+nganjukkab.go.id,https://csirt.nganjukkab.go.id/,"+62358611187, +62335807514, +623358075147",diskominfo@nganjukkab.go.id,,https://csirt.nganjukkab.go.id/storage/public-key/Kunci Publik-csirt nganjuk_0x294E02FA_public.asc
+nttprov.go.id,https://csirt.nttprov.go.id/,"+62380821294, +6201015562",csirt@nttprov.go.id,,https://csirt.nttprov.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
+ntbprov.go.id,https://csirt.ntbprov.go.id/,"+6209510804, +62370644264",sandikami@ntbprov.go.id,,https://csirt.ntbprov.go.id/assets/Publik-Key-Bantuan70-pub.asc
+pa-magelang.go.id,http://csirt.pa-magelang.go.id/,,,,
+pa-maninjau.go.id,https://csirt.pa-maninjau.go.id/,,,,
+mahkamahagung.go.id,https://csirt.mahkamahagung.go.id/,,,,
+pa-makassar.go.id,https://csirt.pa-makassar.go.id/,"+62322544333, +62217948804, +6232254433319",,,
+pa-rengat.go.id,https://csirt.pa-rengat.go.id/,,,,
+pa-polewali.go.id,https://csirt.pa-polewali.go.id/login_up.php,"+62791060416, +62782607590, +62782607590913",50365a6fe24f4ff28f6b625410e04a35@sentry.io,,
+pa-batusangkar.go.id,https://csirt.pa-batusangkar.go.id/,,,,
+pa-sumenep.go.id,https://csirt.pa-sumenep.go.id/,,,,
+pa-kendari.go.id,https://csirt.pa-kendari.go.id/,,,,
+padang.go.id,https://csirt.padang.go.id/,"+627514640800, +6227797262, +62277972623",csirt@padang.go.id,,https://csirt.padang.go.id/storage/public-key/KunciPublik-Padang-CSIRT_0xE37DFE5A_public.asc
+pacitankab.go.id,https://csirt.pacitankab.go.id/,,stkka@ssdata.my.id,,
+kpk.go.id,https://csirt.kpk.go.id/?lang=id,,,,
+pamekasankab.go.id,https://csirt.pamekasankab.go.id/,"+6262607224, +62626072245, +62000000000",csirt@pamekasankab.go.id,,https://csirt.pamekasankab.go.id/storage/public-key/PamekasanKabCSIRT_0xC29C6B2C_public.asc
+palembang.go.id,https://csirt.palembang.go.id/,,,,
+papuabaratprov.go.id,https://csirt.papuabaratprov.go.id/,"+628121810668, +6281218106682",aduansiber@papuabaratprov.go.id,,https://csirt.papuabaratprov.go.id/assets/Publik-Key-Bantuan70-pub.asc
+pasuruankab.go.id,https://csirt.pasuruankab.go.id/,+62343429064,csirt@pasuruankab.go.id,,https://csirt.pasuruankab.go.id/storage/public-key/csirt@pasuruankab.go.id-(0xE874DB9FF72585CA)-public.asc
+pangkalpinangkota.go.id,https://csirt.pangkalpinangkota.go.id/,"+62828217576, +62717423473",diskominfo@pangkalpinangkota.go.id,,
+pasamanbaratkab.go.id,https://csirt.pasamanbaratkab.go.id/,"+6254215742, +6281361680000, +62542157423",csirt@pasamanbaratkab.go.id,,https://csirt.pasamanbaratkab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
+pekalongankota.go.id,https://csirt.pekalongankota.go.id/,"+6275873451, +62285421243",csirt@gafe.pekalongankota.go.id,,https://csirt.pekalongankota.go.id/storage/public-key/PekalonganKota-CSIRT_0xB9D3E257_public.asc
+pematangsiantarkota.go.id,https://csirt.pematangsiantarkota.go.id/,,aduankonten@mail.kominfo.go.id,,
+pekanbaru.go.id,https://csirt.pekanbaru.go.id/,,,,
+patikab.go.id,https://csirt.patikab.go.id/,+62295381127,,,https://csirt.patikab.go.id/assets/Publik-Key-Bantuan70-pub.asc
+papua.go.id,https://csirt.papua.go.id/,"+62874669525, +62756206588, +6287466952",insiden@papua.go.id,,https://csirt.papua.go.id/storage/public-key/PapuaProv-CSIRT.asc
+pakpakbharatkab.go.id,https://csirt.pakpakbharatkab.go.id/,+6200000000,,,
+pemalangkab.go.id,https://csirt.pemalangkab.go.id/,+62284321364,,,https://csirt.pemalangkab.go.id/storage/public-key/PemalangKab-CSIRT-pub.asc
+padangpanjang.go.id,https://iplogger.com/2VCZD5,,,,
+pasamankab.go.id,https://csirt.pasamankab.go.id/,+6275320281,,,
+okukab.go.id,https://csirt.okukab.go.id/,,,,
+pn-batam.go.id,http://csirt.pn-batam.go.id/,,,,
+penajamkab.go.id,https://mercusuar.uzone.id/,,,,
+pn-binjai.go.id,http://csirt.pn-binjai.go.id/,,,,
+palangkaraya.go.id,https://palangkaraya.go.id,,,,
+pn-dumai.go.id,http://csirt.pn-dumai.go.id/,,,,
+pn-ketapang.go.id,https://csirt.pn-ketapang.go.id/,"+62860684073, +627489271701, +6217016761",,,
+pn-kualakurun.go.id,https://csirt.pn-kualakurun.go.id/,,,,
+pn-ambon.go.id,https://csirt.pn-ambon.go.id/index.php?lang=en,,,,
+pn-palu.go.id,https://csirt.pn-palu.go.id/,"+62210125102, +62140701202326, +622107081335",pnpalu@gmail.com,,
+pn-praya.go.id,https://csirt.pn-praya.go.id/,,,,
+pn-manna.go.id,https://dilmil-jayapura.go.id/,,,,
+pertanian.go.id,https://csirt.pertanian.go.id/,,,,
+pn-sidrap.go.id,https://csirt.pn-sidrap.go.id/,,,,
+pn-tanjungpinangkota.go.id,http://csirt.pn-tanjungpinangkota.go.id/,,,,
+pn-tenggarong.go.id,https://csirt.pn-tenggarong.go.id/,,,,
+pn-wangiwangi.go.id,https://csirt.pn-wangiwangi.go.id/,,,,
+polri.go.id,https://csirt.polri.go.id/,"+62081119607917, +6281119607917, +628111960",csirt@polri.go.id,,https://csirt.polri.go.id/storage/public-key/KunciPublik_0x6FE8906A_public.asc
+pontianak.go.id,https://csirt.pontianak.go.id/,"+6222178558238, +622217855823, +6299642605",csirt@pontianak.go.id,,https://csirt.pontianak.go.id/storage/public-key/Pontianak-CSIRT_0x15676791_public.asc
+pom.go.id,https://csirt.pom.go.id/,,,,
+pringsewukab.go.id,https://csirt.pringsewukab.go.id/,+627297330367,csirt@pringsewukab.go.id,,https://csirt.pringsewukab.go.id/storage/public-key/PRINGSEWU CSIRT_0xAC6440D9_public.asc
+ppatk.go.id,https://csirt.ppatk.go.id/,+622150928484,csirt@ppatk.go.id,,
+probolinggokab.go.id,https://csirt.probolinggokab.go.id/,+62335846665,csirt@probolinggokab.go.id,,https://csirt.probolinggokab.go.id/storage/public-key/probolinggokab-csirt_0xAAEFCF2E_public.asc
+polkam.go.id,https://csirt.polkam.go.id/,,,,
+pt-denpasar.go.id,https://csirt.pt-denpasar.go.id/,,,,
+probolinggokota.go.id,https://csirt.probolinggokota.go.id/,,,,
+pn-bengkulu.go.id,https://itkuat.com/,+6285770529465,,,
+pt-kupang.go.id,https://csirt.pt-kupang.go.id/login_up.php,"+62730371995530, +62730371995, +627303719955",50365a6fe24f4ff28f6b625410e04a35@sentry.io,,
+pta-papuabarat.go.id,https://csirt.pta-papuabarat.go.id/,,,,
+purbalinggakab.go.id,https://csirt.purbalinggakab.go.id/,+622818902091,csirt@purbalinggakab.go.id,,https://csirt.purbalinggakab.go.id/storage/public-key/public_key_csirt@purbalinggakab.asc
+ptun-palangkaraya.go.id,https://csirt.ptun-palangkaraya.go.id/,,,,
+purwakartakab.go.id,https://csirt.purwakartakab.go.id/,+62264210082,csirt@purwakartakab.go.id,,https://csirt.purwakartakab.go.id/storage/public-key/PublicKey-csirt@purwakartakab.go.id.asc
+rembangkab.go.id,https://csirt.rembangkab.go.id/,"+62648409328, +626484093289, +622956980754",csirt@rembangkab.go.id,,https://csirt.rembangkab.go.id/storage/public-key/rembang.publickey.asc
+rohilkab.go.id,https://csirt.rohilkab.go.id/,"+629946845871, +6281371426509, +6299468458710",diskominfotiks@rohilkab.go.id,,https://csirt.rohilkab.go.id/storage/public-key/Diskominfotiks_diskominfotiks@rohilkab.go.id-0x2808D3DC8980A429-pub.asc
+rri.go.id,https://csirt.rri.go.id/,,aduankonten@mail.kominfo.go.id,,
+rokanhulukab.go.id,https://csirt.rokanhulukab.go.id/,"+6291009171, +6282284618100, +001123456",,,
+salatiga.go.id,https://csirt.salatiga.go.id/,+62298326767,csirt@salatiga.go.id,,https://csirt.salatiga.go.id/storage/public-key/Salatiga-CSIRT-Pubkey.asc
+sanggau.go.id,https://csirt.sanggau.go.id/,"+62241215224152, +62241224131535, +622412050701",csirt@mail.sanggau.go.id,,https://csirt.sanggau.go.id/uploads/csirtsgu_pgp_key.asc
+sambas.go.id,https://csirt.sambas.go.id/,"+62517599914, +6251759991, +6288926954",sambas-csirt_csirt@sambas.go.id-0x708b6841b30e3080-pub.asc,,https://csirt.sambas.go.id/storage/app/public/public-key/Sambas-CSIRT_csirt@sambas.go.id-0x708B6841B30E3080-pub.asc
+purworejokab.go.id,https://csirt.purworejokab.go.id/,"+6254793304, +622757530915, +62547933045",,,https://csirt.purworejokab.go.id/storage/public-key/KunciPublik2PURWOREJOKAB-CSIRT_0x324A7086_public.asc
+sekadaukab.go.id,https://csirt.sekadaukab.go.id/,"+6206981800000, +622178833610987, +620698180000",bantuan70@bssn.go.id,,https://csirt.sekadaukab.go.id/storage/public-key/OpenPGP_0xA67BABE44F21EB5D.asc
+sikkakab.go.id,http://csirt.sikkakab.go.id/,,,,
+sidoarjokab.go.id,https://csirt.sidoarjokab.go.id/,"+62318071604, +6227452474",csirt@sidoarjokab.go.id,,https://csirt.sidoarjokab.go.id/storage/public-key/KunciPublik-sidoarjokab-csirt_0x3872E2EF_public.asc
+serangkab.go.id,https://csirt.serangkab.go.id/,,,,
+sawahluntokota.go.id,https://csirt.sawahluntokota.go.id/,,,,
+pn-wonogiri.go.id,https://csirt.pn-wonogiri.go.id/index.php?lang=en,,,,
+pta-surabaya.go.id,https://csirt.pta-surabaya.go.id/,,,,
+solokkab.go.id,https://csirt.solokkab.go.id/,+62000000000,csirt@solokkab.go.id,,https://csirt.solokkab.go.id/storage/public-key/KunciPublik_0xEA798B4B_public.asc
+solselkab.go.id,https://csirt.solselkab.go.id/,+622100000000,csirt@solselkab.go.id,,https://csirt.solselkab.go.id/storage/public-key/kominfo csirt@solselkab.go.id-(0xB6DDE239A712CB72)-public.asc
+sragenkab.go.id,https://csirt.sragenkab.go.id/,+62271894001,csirt@sragenkab.go.id,,https://csirt.sragenkab.go.id/storage/public-key/SragenKab-Csirt_0x11879B87_public.asc
+semarangkota.go.id,https://csirt.semarangkota.go.id/,"+62250527150, +622505280959, +622505280948",csirt@semarangkota.go.id,,
+sukoharjokab.go.id,https://csirt.sukoharjokab.go.id/,+62271593068,csirt@sukoharjokab.go.id,,https://csirt.sukoharjokab.go.id/storage/public-key/KunciPublic-SUKOHARJOKAB-CSIRT_0x2BBFD772_public.asc
+sukabumikab.go.id,https://csirt.sukabumikab.go.id/,"+622601236845, +62266320254, +6226012368",csirt@sukabumikab.go.id,,https://csirt.sukabumikab.go.id/storage/public-key/Sukabumikab-CSIRT_0x30496E71_public.asc
+sultraprov.go.id,https://csirt.sultraprov.go.id/,+624013111728,csirt@sultraprov.go.id,,https://csirt.sultraprov.go.id/storage/publickey-v1.asc
+sulselprov.go.id,https://csirt.sulselprov.go.id/,,,,
+situbondokab.go.id,https://csirt.situbondokab.go.id/,"+62764009231, +62338674096, +627640092310",,,https://csirt.situbondokab.go.id/storage/public-key/B8CC1E6A8473BFE2955FB69D1B32FD9107D5130F.asc
+sumbarprov.go.id,https://csirt.sumbarprov.go.id/cgi-sys/suspendedpage.cgi,,webmaster@csirt.sumbarprov.go.id,,
+subang.go.id,https://csirt.subang.go.id/,"+6222133825, +62260411318",,,https://csirt.subang.go.id/storage/public-key/publickey.asc
+riau.go.id,https://csirt.riau.go.id/,,,,
+slemankab.go.id,https://csirt.slemankab.go.id/,,,,
+tabanankab.go.id,https://csirt.tabanankab.go.id/,,,,
+tangerangkab.go.id,https://csirt.tangerangkab.go.id/,"+6241977119, +62215994532",kamisandi-diskominfo@tangerangkab.go.id,,https://csirt.tangerangkab.go.id/storage/public-key/Publik-Key-Bantuan70-pub.asc
+tanatidungkab.go.id,http://csirt.tanatidungkab.go.id/,"+62373307349, +62532177738, +6221000000000",csrit@tanatidungkab.go.id,,http://csirt.tanatidungkab.go.id/storage/public-key/PGB Kabupaten Tana Tidung.asc
+tangerangkota.go.id,https://csirt.tangerangkota.go.id/,"+622005230310, +62200523031, +62200523031045",csirt@tangerangkota.go.id,,
+tapinkab.go.id,https://csirt.tapinkab.go.id/,"+6281134500177, +628113450017",csirt@tapinkab.go.id,,https://csirt.tapinkab.go.id/storage/public-key/publickey.asc
+tasikmalayakota.go.id,https://csirt.tasikmalayakota.go.id/,"+62080808547, +6208080854, +622657523616",csirt@tasikmalayakota.go.id,,https://csirt.tasikmalayakota.go.id/storage/public-key/TasikmalayaKota-CSIRT_0x5F049D9F_public.asc
+tanahlautkab.go.id,https://csirt.tanahlautkab.go.id/,,csirt.tala@tanahlautkab.go.id,,https://csirt.tanahlautkab.go.id/storage/public-key/TALAKAB-CSIRT_0x08ADF0BF_public.asc
+tojounauna.go.id,http://csirt.tojounauna.go.id/,"+628234881777, +623307192738, +6282348817777",csirt-touna@mail.tojounauna.go.id,,http://csirt.tojounauna.go.id/storage/public-key/persandian_persandian@mail.tojounauna.go.id-0x33DB3C7BCBEF4B2E-pub.asc
+tubankab.go.id,https://csirt.tubankab.go.id/,"+623568832697, +624160977462, +62210646754",csirt@tubankab.go.id,,https://csirt.tubankab.go.id/storage/public-key/publickey.asc
+trenggalekkab.go.id,https://csirt.trenggalekkab.go.id/,+62355794252,csirt@trenggalekkab.go.id,,https://csirt.trenggalekkab.go.id/storage/public-key/CSIRT Trenggalek csirt@trenggalekkab.go.id-(0x329E27728CE3DD17)-public.asc
+tulungagung.go.id,https://csirt.tulungagung.go.id/,"+62355322190, +62156497575, +6248801380397",csirt@tulungagung.go.id,,https://csirt.tulungagung.go.id/storage/public-key/OpenPGP_0xCE6EC246DEC25B58.asc
+temanggungkab.go.id,https://csirt.temanggungkab.go.id/,"+627784566076, +622934961389, +6277845660",csirt@temanggungkab.go.id,,
+wonogirikab.go.id,https://csirt.wonogirikab.go.id/,+62273321002,csirt@wonogirikab.go.id,,https://csirt.wonogirikab.go.id/storage/public-key/WonogiriKab-CSIRT_0x89A20EDD_public.asc
+wonosobokab.go.id,https://csirt.wonosobokab.go.id/,"+621057439464, +62286325112, +6290622638",csirt@wonosobokab.go.id,,https://csirt.wonosobokab.go.id/storage/public-key/wonosobokab-csirt-pub.asc
+tvri.go.id,https://csirt.tvri.go.id/,,,,
+waykanankab.go.id,https://csirt.waykanankab.go.id/,+62123456789,info@apexa.com,,
+veteranri.go.id,https://csirt.veteranri.go.id/,,,,
+wajokab.go.id,https://csirt.wajokab.go.id/,,,,
+wantannas.go.id,https://csirt.wantannas.go.id/,+62213451067,,,https://csirt.wantannas.go.id/storage/public-key/Kunci Publik - Setjen Wantannas CSIRT_0xA0B5BDF7_public.asc
+tolitolikab.go.id,https://csirt.tolitolikab.go.id/,"+62716979999, +627169799999, +622178833610987",,,https://csirt.tolitolikab.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc
+tulangbawangbaratkab.go.id,https://csirt.tulangbawangbaratkab.go.id/login_up.php,"+62791060416, +62782607590, +62782607590913",50365a6fe24f4ff28f6b625410e04a35@sentry.io,,
+tualkota.go.id,https://csirt.tualkota.go.id/,,,,
+tegalkota.go.id,https://csirt.tegalkota.go.id/,"+62283324400, +6203190000, +6243973792",csirt@tegalkota.go.id,,https://csirt.tegalkota.go.id/storage/public-key/kunci_publik_csirt_kota_tegal.asc
+telukbintunikab.go.id,https://bengkuluprov.go.id/,,,,
