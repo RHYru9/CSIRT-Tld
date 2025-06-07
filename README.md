@@ -1,6 +1,6 @@
 # CSIRT Domain List: TLD `.go.id` dan `.ac.id`
 
-Repositori ini menyediakan daftar domain yang berada di bawah lingkup TLD (Top-Level Domain) `.go.id` dan `.ac.id`, yang masing-masing digunakan oleh instansi pemerintahan dan institusi pendidikan tinggi di Indonesia. Daftar ini ditujukan untuk mendukung kegiatan riset keamanan, termasuk *threat hunting*, analisis permukaan serangan (*attack surface mapping*), dan pelaporan kerentanan secara bertanggung jawab.
+Repositori ini menyediakan daftar domain yang berada di bawah lingkup TLD (Top-Level Domain) `.go.id`, `co.id` dan `.ac.id`, yang masing-masing digunakan oleh instansi pemerintahan dan institusi pendidikan tinggi di Indonesia. Daftar ini ditujukan untuk mendukung kegiatan riset keamanan, termasuk *threat hunting*, analisis permukaan serangan (*attack surface mapping*), dan pelaporan kerentanan secara bertanggung jawab.
 
 ---
 
@@ -10,6 +10,7 @@ Menyediakan referensi yang akurat dan terkurasi terkait domain:
 
 * `.go.id` — domain milik lembaga pemerintah Indonesia
 * `.ac.id` — domain milik institusi pendidikan tinggi di Indonesia
+* `.co.id` — domain milik perusahaan berbadan hukum di Indonesia
 
 Repositori ini bersifat terbuka dan dapat digunakan untuk mendukung kegiatan riset keamanan siber dan pelaporan insiden kepada CSIRT (Computer Security Incident Response Team) yang relevan.
 
@@ -19,11 +20,12 @@ Repositori ini bersifat terbuka dan dapat digunakan untuk mendukung kegiatan ris
 
 Data disusun dalam beberapa format:
 
-* `go.id.txt` — daftar domain dengan akhiran `.go.id`
-* `ac.id.txt` — daftar domain dengan akhiran `.ac.id`
-* `all.csv` — gabungan domain `.go.id` dan `.ac.id` dalam format CSV
+* `go.id.txt` — daftar `.go.id` Tld
+* `ac.id.txt` — daftar `.ac.id` Tld
+* `co.id.txt` — daftar `.co.id` Tld
 * `csirt_go.id.csv` — daftar informasi CSIRT terkait domain `.go.id`
 * `csirt_ac.id.csv` — daftar informasi CSIRT terkait domain `.ac.id`
+* `csirt_co.id.csv` — daftar informasi CSIRT terkait domain `.co.id`
 
 ---
 
@@ -55,7 +57,7 @@ Kontribusi dalam bentuk domain baru, metadata tambahan, atau perbaikan data sang
 * Bebas dari duplikat
 * Mengikuti format standar berikut:
 
-  * `.txt` — satu domain per baris
+  * `.txt` — list domain
   * `.csv` — berisi kolom `no`, `base_domain`, `csirt_url`, `telepon`, `email`, `apresiasi`, dan `RFC_2350`
 
 ---
