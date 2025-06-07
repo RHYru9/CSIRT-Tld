@@ -18,15 +18,19 @@ Repositori ini bersifat terbuka dan dapat digunakan untuk mendukung kegiatan ris
 
 ## Struktur Data
 
-Data disusun dalam beberapa format:
-
-* `go.id.txt` — daftar `.go.id` Tld
-* `ac.id.txt` — daftar `.ac.id` Tld
-* `co.id.txt` — daftar `.co.id` Tld
-* `csirt_go.id.csv` — daftar informasi CSIRT terkait domain `.go.id`
-* `csirt_ac.id.csv` — daftar informasi CSIRT terkait domain `.ac.id`
-* `csirt_co.id.csv` — daftar informasi CSIRT terkait domain `.co.id`
-
+```
+├── LICENSE
+├── README.md
+├── ac.id
+│   ├── ac.id.txt
+│   └── csirt_ac.id.csv
+├── co.id
+│   ├── co.id.txt
+│   └── csirt_co.id.csv
+└── go.id
+    ├── csirt_go.id.csv
+    └── go.id.txt
+```
 ---
 
 ## Sumber Data
