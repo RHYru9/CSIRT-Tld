@@ -1,79 +1,99 @@
-# CSIRT Domain List: TLD `.go.id` dan `.ac.id`
+# CSIRT Indonesia - Penjelasan Lengkap
 
-Repositori ini menyediakan daftar domain yang berada di bawah lingkup TLD (Top-Level Domain) `.go.id`, `co.id` dan `.ac.id`, yang masing-masing digunakan oleh instansi pemerintahan dan institusi pendidikan tinggi di Indonesia. Daftar ini ditujukan untuk mendukung kegiatan riset keamanan, termasuk *threat hunting*, analisis permukaan serangan (*attack surface mapping*), dan pelaporan kerentanan secara bertanggung jawab.
+## Apa itu CSIRT Domain List?
+
+**CSIRT Domain List** adalah repositori (kumpulan data) yang berisi daftar lengkap domain-domain Indonesia yang menggunakan Top-Level Domain (TLD) khusus:
+- **`.go.id`** - Domain resmi instansi pemerintah Indonesia
+- **`.ac.id`** - Domain institusi pendidikan tinggi Indonesia  
+- **`.co.id`** - Domain perusahaan berbadan hukum Indonesia
+
+## Mengapa ada Repositori ini?
+
+### 1. **Untuk Keamanan Siber**
+- Membantu peneliti keamanan mengidentifikasi domain-domain Indonesia yang perlu dipantau
+- Mendukung aktivitas **threat hunting** (pencarian ancaman keamanan)
+- Memfasilitasi **attack surface mapping** (pemetaan permukaan serangan potensial)
+
+### 2. **Untuk Pelaporan Kerentanan**
+- Menyediakan informasi kontak CSIRT (Computer Security Incident Response Team) yang tepat
+- Memudahkan **responsible disclosure** - pelaporan kerentanan keamanan secara etis dan bertanggung jawab
+- Mengurangi waktu respons dalam penanganan insiden keamanan
+
+## Struktur dan Isi Data
+
+### Format File:
+- **`.txt`** - Daftar domain sederhana (satu domain per baris)
+- **`.csv`** - Data terstruktur dengan kolom:
+  - `no` - Nomor urut
+  - `base_domain` - Domain utama
+  - `csirt_url` - URL kontak tim keamanan
+  - `telepon` - Nomor telepon kontak
+  - `email` - Email kontak
+  - `apresiasi` - Informasi program bug bounty/penghargaan
+  - `RFC_2350` - Standar internasional untuk tim respons keamanan
+
+### Sumber Data:
+Data dikumpulkan melalui berbagai metode:
+- **WHOIS Database** - Database registrasi domain publik
+- **Tools Otomatis**: Subfinder, C99, SecurityTrails, crt.sh
+- **Web Scraping** - Pengumpulan data otomatis dari direktori domain
+- **Normalisasi Data** - Pembersihan duplikat dan standardisasi format
+
+## Etika Penggunaan
+
+### ✅ **Penggunaan yang Diizinkan:**
+- Penelitian keamanan siber yang sah
+- Audit keamanan dengan izin
+- Pelaporan kerentanan secara bertanggung jawab
+- Analisis akademis dan riset
+
+### ❌ **Penggunaan yang Dilarang:**
+- Aktivitas peretasan atau penyerangan
+- Penggunaan untuk tujuan kriminal
+- Penyalahgunaan data untuk spam atau phishing
+- Aktivitas yang melanggar hukum Indonesia
+
+## Cara Berkontribusi
+
+### Syarat Kontribusi:
+1. **Validasi DNS** - Domain harus dapat di-resolve
+2. **Bebas Duplikat** - Tidak ada domain yang sama
+3. **Format Standar** - Mengikuti struktur file yang sudah ditetapkan
+4. **Verifikasi Data** - Informasi kontak harus akurat
+
+### Jenis Kontribusi:
+- Menambahkan domain baru yang terlewat
+- Memperbarui informasi kontak CSIRT
+- Melaporkan domain yang sudah tidak aktif
+- Memperbaiki kesalahan data
+
+## Keterbatasan dan Disclaimer
+
+### ⚠️ **Perhatian Penting:**
+- **Tidak Ada Jaminan Akurasi 100%** - Beberapa data mungkin sudah usang
+- **Perubahan Dinamis** - Domain dan organisasi dapat berubah sewaktu-waktu
+- **Tanggung Jawab Pengguna** - Verifikasi ulang sebelum menggunakan data
+- **Kepatuhan Hukum** - Pengguna bertanggung jawab mematuhi regulasi yang berlaku
+
+### Kemungkinan Ketidakakuratan:
+- Domain yang sudah tidak aktif atau expired
+- Perubahan kepemilikan organisasi
+- Informasi kontak yang sudah tidak valid
+- Restrukturisasi institusi/perusahaan
+
+## Manfaat untuk Ekosistem Keamanan Siber Indonesia
+
+1. **Peningkatan Respons Insiden** - Kontak yang jelas mempercepat penanganan
+2. **Kolaborasi Antar Institusi** - Memfasilitasi kerjasama keamanan siber
+3. **Peningkatan Kesadaran** - Membantu organisasi memahami landscape digital mereka
+4. **Standardisasi Pelaporan** - Mengikuti best practice internasional (RFC 2350)
+
+## Lisensi dan Penggunaan
+
+- **MIT License** - Lisensi terbuka yang memungkinkan penggunaan bebas
+- **Batasan Institusional** - Tetap harus menghormati kebijakan masing-masing organisasi
+- **Penggunaan Komersial** - Diizinkan dengan tetap mematuhi etika dan hukum
 
 ---
 
-## Tujuan
-
-Menyediakan referensi yang akurat dan terkurasi terkait domain:
-
-* `.go.id` — domain milik lembaga pemerintah Indonesia
-* `.ac.id` — domain milik institusi pendidikan tinggi di Indonesia
-* `.co.id` — domain milik perusahaan berbadan hukum di Indonesia
-
-Repositori ini bersifat terbuka dan dapat digunakan untuk mendukung kegiatan riset keamanan siber dan pelaporan insiden kepada CSIRT (Computer Security Incident Response Team) yang relevan.
-
----
-
-## Struktur Data
-
-```
-├── LICENSE
-├── README.md
-├── ac.id
-│   ├── ac.id.txt
-│   └── csirt_ac.id.csv
-├── co.id
-│   ├── co.id.txt
-│   └── csirt_co.id.csv
-└── go.id
-    ├── csirt_go.id.csv
-    └── go.id.txt
-```
----
-
-## Sumber Data
-
-Domain dikumpulkan dari berbagai sumber, antara lain:
-
-* WHOIS publik
-* Tools seperti Subfinder, C99, SecurityTrails, dan crt.sh
-* Web scraping direktori domain terkait
-* Proses normalisasi (pembersihan duplikat, trimming ke root domain, pengelompokan berdasarkan TLD) menggunakan [rhyru9.github.io/uri](https://rhyru9.github.io/uri)
-
----
-
-## Etika dan Tanggung Jawab
-
-* Gunakan data ini hanya untuk kegiatan riset keamanan yang sah
-* Patuhi prinsip *Responsible Disclosure* dalam pelaporan kerentanan
-* Tidak diperkenankan menggunakan data ini untuk aktivitas yang bersifat merusak atau ilegal
-* Laporkan temuan kerentanan kepada CSIRT atau pengelola domain terkait secara tepat dan profesional
-
----
-
-## Kontribusi
-
-Kontribusi dalam bentuk domain baru, metadata tambahan, atau perbaikan data sangat disarankan. Mohon pastikan bahwa setiap data yang dikirimkan:
-
-* Sudah melalui validasi (terutama resolusi DNS)
-* Bebas dari duplikat
-* Mengikuti format standar berikut:
-
-  * `.txt` — list domain
-  * `.csv` — berisi kolom `no`, `base_domain`, `csirt_url`, `telepon`, `email`, `apresiasi`, dan `RFC_2350`
-
----
-
-## Lisensi
-
-Repositori ini menggunakan [MIT License](LICENSE). Namun, penggunaan data tetap tunduk pada ketentuan dan kebijakan masing-masing domain atau instansi pemiliknya.
-
----
-
-## Kontak
-
-Jika Anda menemukan kesalahan data, memiliki pertanyaan, atau ingin berkontribusi, silakan buka *Issue* di repositori ini atau hubungi maintainer melalui kontak yang tersedia pada profil.
-
----
+*Repositori ini merupakan upaya kolektif untuk meningkatkan keamanan siber di Indonesia melalui transparansi dan kolaborasi yang bertanggung jawab.*
